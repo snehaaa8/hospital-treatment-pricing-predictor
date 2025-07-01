@@ -1,0 +1,1001 @@
+age,gender,race,diagnosis_code,procedure_code,length_of_stay,treatment_type,insurance_type,total_charges
+63,Male,White,I63.9,0U5B7ZZ,3,Surgery,Private Insurance,12904.97
+52,Male,White,E66.9,0D160Z4,1,Surgery,Private Insurance,11158.87
+66,Female,White,N18.9,0WQF1ZZ,1,Medical Therapy,Private Insurance,8911.13
+82,Female,White,E66.9,3E0P3MZ,4,Medical Therapy,Medicare,11656.27
+50,Male,Hispanic,I25.10,0D160Z4,1,Surgery,Medicaid,8989.85
+50,Female,White,E11.9,0WQF1ZZ,17,Emergency Care,Medicare,20399.05
+83,Male,White,E66.9,0D160Z5,2,Observation,Medicaid,5932.96
+68,Female,White,K21.9,0D160Z4,1,Medical Therapy,Medicaid,6567.05
+46,Female,Asian,F41.9,3E0P3MZ,1,Emergency Care,Private Insurance,12695.06
+64,Female,White,I25.10,0WQF0ZZ,1,Surgery,Private Insurance,14664.46
+46,Female,White,N18.9,0U5B8ZZ,1,Medical Therapy,Private Insurance,6011.36
+46,Female,Black,F41.9,0D160Z4,1,Observation,Medicare,4240.28
+59,Male,White,J45.909,4A02X4Z,1,Emergency Care,Medicaid,8628.65
+20,Female,White,I10,4A02X4Z,1,Observation,Medicaid,2378.95
+23,Male,White,E66.9,0D160Z4,3,Medical Therapy,Medicare,6129.19
+44,Female,Hispanic,K21.9,3E0P3MZ,3,Emergency Care,Private Insurance,12050.88
+36,Female,White,I25.10,4A02X5Z,3,Surgery,Medicaid,11909.8
+60,Female,Black,K21.9,3E0P3MZ,1,Emergency Care,Uninsured,7842.59
+38,Male,Other,E78.5,0D160Z5,1,Rehabilitation,Private Insurance,5941.57
+29,Female,White,F41.9,3E0P3MZ,3,Surgery,Private Insurance,10436.94
+81,Female,White,I63.9,0D160Z5,1,Observation,Medicare,4856.67
+50,Female,White,I25.10,4A02X5Z,1,Surgery,Uninsured,7990.1
+56,Male,White,E11.9,0WQF0ZZ,4,Medical Therapy,Medicare,9332.78
+29,Male,White,I48.91,0D160Z5,4,Medical Therapy,Private Insurance,9278.89
+45,Male,Hispanic,I63.9,3E0P3NZ,2,Medical Therapy,Medicare,7963.56
+56,Male,Black,I48.91,4A02X4Z,1,Emergency Care,Medicare,8077.46
+34,Female,Black,I10,0U5B8ZZ,4,Observation,Private Insurance,5445.15
+61,Male,White,I10,4A02X4Z,2,Medical Therapy,Uninsured,4327.04
+44,Female,Hispanic,I48.91,0D160Z5,4,Emergency Care,Medicare,13039.66
+49,Male,Asian,E66.9,3E0P3NZ,4,Rehabilitation,Private Insurance,11467.67
+44,Male,Hispanic,I50.9,0U5B7ZZ,4,Surgery,Medicare,8563.23
+88,Female,White,K21.9,0WQF0ZZ,2,Rehabilitation,Medicare,10113.01
+54,Female,Black,C50.919,0WQF0ZZ,1,Surgery,Private Insurance,13554.61
+35,Female,White,E03.9,0U5B7ZZ,3,Emergency Care,Private Insurance,11456.91
+69,Female,White,I10,0U5B8ZZ,2,Medical Therapy,Medicare,7674.85
+33,Female,White,I63.9,4A02X5Z,4,Surgery,Medicare,9613.45
+58,Male,Black,I10,0WQF1ZZ,1,Medical Therapy,Medicare,8009.08
+19,Female,Black,C50.919,3E0P3NZ,1,Observation,Medicare,3220.09
+31,Female,White,C50.919,0D160Z5,6,Medical Therapy,Uninsured,4223.23
+58,Female,White,E78.5,0WQF1ZZ,4,Surgery,Medicaid,13088.54
+68,Male,White,M79.3,0U5B8ZZ,7,Medical Therapy,Medicare,11678.52
+58,Female,White,E78.5,4A02X5Z,4,Emergency Care,Private Insurance,11672.86
+52,Male,White,E78.5,0WQF0ZZ,2,Medical Therapy,Medicaid,6374.74
+49,Male,White,M79.3,0D160Z5,3,Surgery,Medicare,16992.27
+28,Male,Hispanic,K21.9,0D160Z5,6,Medical Therapy,Medicaid,6411.49
+42,Male,White,I25.10,4A02X5Z,2,Surgery,Medicaid,10474.72
+46,Female,White,J45.909,4A02X4Z,3,Emergency Care,Medicare,10828.68
+74,Female,White,E03.9,3E0P3NZ,1,Emergency Care,Medicare,12085.79
+61,Female,Asian,C50.919,4A02X5Z,1,Medical Therapy,Uninsured,4690.62
+23,Male,Black,I10,3E0P3MZ,3,Medical Therapy,Private Insurance,5667.86
+60,Male,Black,I50.9,3E0P3MZ,1,Observation,Medicare,5058.7
+48,Male,White,E03.9,4A02X5Z,1,Medical Therapy,Medicare,4455.9
+42,Female,White,I48.91,0WQF0ZZ,1,Emergency Care,Private Insurance,13256.85
+66,Male,White,E66.9,4A02X5Z,1,Observation,Private Insurance,6080.15
+73,Female,Black,I25.10,0D160Z4,1,Observation,Private Insurance,5049.39
+71,Female,Asian,M79.3,0U5B8ZZ,1,Medical Therapy,Uninsured,6285.8
+39,Male,Black,E03.9,3E0P3MZ,7,Medical Therapy,Medicare,9477.55
+49,Female,Hispanic,I10,0WQF1ZZ,2,Rehabilitation,Private Insurance,8893.92
+60,Female,Black,E03.9,4A02X5Z,1,Medical Therapy,Private Insurance,6461.42
+72,Female,White,J45.909,3E0P3MZ,1,Observation,Private Insurance,3557.63
+46,Female,Hispanic,F41.9,0U5B8ZZ,3,Surgery,Medicare,13981.84
+51,Male,White,I63.9,0U5B8ZZ,1,Observation,Uninsured,2098.32
+35,Male,White,M79.3,0WQF1ZZ,5,Medical Therapy,Medicaid,5889.39
+33,Female,White,E03.9,0D160Z5,3,Surgery,Private Insurance,15167.42
+69,Female,White,I10,0D160Z4,4,Surgery,Private Insurance,17193.72
+79,Male,White,I10,4A02X5Z,1,Observation,Medicare,5035.96
+53,Female,White,E03.9,0U5B7ZZ,3,Observation,Private Insurance,4693.88
+73,Female,White,F41.9,4A02X5Z,1,Medical Therapy,Private Insurance,7623.88
+61,Female,White,E66.9,0D160Z5,8,Surgery,Private Insurance,25456.52
+43,Male,White,K21.9,3E0P3NZ,3,Observation,Uninsured,2995.51
+61,Female,White,I50.9,4A02X4Z,1,Surgery,Private Insurance,18137.43
+82,Female,White,N18.9,0WQF0ZZ,1,Medical Therapy,Medicare,6203.58
+54,Male,White,E78.5,0D160Z5,1,Surgery,Medicaid,11940.4
+83,Male,Black,M79.3,0U5B8ZZ,3,Surgery,Medicare,14951.78
+18,Female,Black,E66.9,0U5B7ZZ,1,Surgery,Medicare,5225.53
+69,Male,Hispanic,N18.9,0WQF0ZZ,2,Medical Therapy,Medicare,5597.63
+56,Female,Black,I25.10,3E0P3MZ,1,Surgery,Private Insurance,13528.2
+49,Female,White,I25.10,4A02X5Z,3,Medical Therapy,Medicaid,7577.17
+56,Male,Black,I10,0WQF0ZZ,5,Medical Therapy,Private Insurance,14595.64
+19,Female,White,I25.10,3E0P3MZ,4,Medical Therapy,Medicaid,5866.68
+51,Male,White,K21.9,4A02X4Z,4,Medical Therapy,Private Insurance,7358.81
+61,Female,Hispanic,I50.9,3E0P3MZ,1,Emergency Care,Medicare,9762.56
+81,Male,White,C50.919,0U5B7ZZ,1,Surgery,Medicaid,9438.35
+45,Female,Hispanic,E66.9,0U5B8ZZ,3,Medical Therapy,Medicare,7425.05
+40,Male,Hispanic,I63.9,0D160Z5,1,Surgery,Medicare,7626.78
+45,Male,Hispanic,I25.10,0WQF1ZZ,1,Surgery,Private Insurance,6972.81
+71,Female,Asian,J45.909,0D160Z5,1,Medical Therapy,Medicare,8357.2
+60,Male,White,C50.919,0D160Z5,1,Medical Therapy,Medicare,5842.87
+45,Female,White,I50.9,3E0P3MZ,1,Emergency Care,Private Insurance,10081.65
+64,Male,White,I48.91,4A02X5Z,6,Medical Therapy,Private Insurance,14512.02
+56,Female,White,K21.9,0WQF0ZZ,1,Rehabilitation,Private Insurance,11985.7
+72,Male,Black,F41.9,0WQF1ZZ,2,Surgery,Uninsured,11819.97
+42,Female,Black,N18.9,0WQF1ZZ,1,Surgery,Private Insurance,11922.65
+49,Male,Black,I50.9,0WQF0ZZ,3,Surgery,Medicaid,12350.46
+47,Male,White,I50.9,0WQF0ZZ,1,Surgery,Medicare,9375.62
+28,Male,White,N18.9,0U5B8ZZ,6,Medical Therapy,Private Insurance,10193.1
+60,Male,White,K21.9,0U5B7ZZ,6,Observation,Medicaid,6223.23
+59,Female,White,C50.919,4A02X4Z,1,Surgery,Private Insurance,11262.35
+55,Male,Hispanic,F41.9,0U5B7ZZ,6,Emergency Care,Private Insurance,17481.22
+50,Female,White,I25.10,0WQF0ZZ,16,Emergency Care,Medicare,26518.85
+29,Male,White,I10,4A02X5Z,5,Medical Therapy,Medicare,8391.38
+47,Male,White,M79.3,0D160Z4,5,Surgery,Private Insurance,20132.24
+48,Female,Black,C50.919,0D160Z4,1,Surgery,Medicare,7354.17
+40,Female,Black,F41.9,4A02X4Z,2,Surgery,Medicaid,11840.58
+52,Male,White,N18.9,0WQF0ZZ,1,Surgery,Medicare,12744.93
+62,Male,White,I63.9,0D160Z4,1,Medical Therapy,Uninsured,4737.12
+88,Male,White,N18.9,4A02X4Z,20,Surgery,Uninsured,32170.04
+58,Female,White,F41.9,0WQF1ZZ,1,Medical Therapy,Medicare,5768.84
+59,Female,Black,N18.9,4A02X4Z,4,Rehabilitation,Medicare,11368.17
+53,Male,Black,N18.9,0WQF1ZZ,4,Observation,Medicaid,4148.89
+20,Female,White,M79.3,0U5B8ZZ,5,Emergency Care,Uninsured,10655.33
+54,Female,White,E66.9,0D160Z4,18,Surgery,Private Insurance,45387.29
+56,Female,Other,M79.3,4A02X4Z,1,Medical Therapy,Medicare,6801.82
+95,Female,White,I25.10,4A02X4Z,1,Medical Therapy,Private Insurance,9207.4
+51,Male,Black,E03.9,4A02X4Z,1,Surgery,Private Insurance,9020.83
+60,Male,White,E03.9,4A02X5Z,1,Surgery,Medicare,12963.48
+54,Male,White,E11.9,4A02X4Z,1,Observation,Private Insurance,3624.06
+33,Male,White,C50.919,4A02X5Z,1,Observation,Medicare,4048.76
+75,Female,White,C50.919,0D160Z5,4,Medical Therapy,Medicare,7572.12
+68,Female,Asian,N18.9,0U5B8ZZ,2,Medical Therapy,Medicare,4914.65
+69,Male,White,N18.9,0D160Z5,1,Medical Therapy,Medicare,6526.3
+38,Male,White,I50.9,3E0P3NZ,3,Surgery,Medicare,14623.56
+80,Male,White,E03.9,0D160Z5,1,Medical Therapy,Private Insurance,6923.02
+29,Female,White,I25.10,0WQF0ZZ,1,Surgery,Medicare,11224.96
+65,Male,White,I63.9,0WQF1ZZ,4,Surgery,Medicare,17319.81
+94,Female,White,I10,0WQF0ZZ,2,Rehabilitation,Medicare,10358.9
+37,Male,Hispanic,E11.9,0U5B7ZZ,4,Medical Therapy,Uninsured,5144.05
+44,Male,White,C50.919,0D160Z5,1,Observation,Private Insurance,4281.91
+56,Female,White,I48.91,0D160Z4,5,Medical Therapy,Private Insurance,11707.44
+45,Female,Hispanic,C50.919,3E0P3MZ,2,Medical Therapy,Private Insurance,8809.98
+27,Male,White,E11.9,0D160Z5,2,Surgery,Uninsured,6607.11
+56,Female,Asian,I63.9,0U5B8ZZ,2,Surgery,Medicare,10054.3
+35,Female,White,I63.9,0D160Z5,5,Surgery,Private Insurance,16584.09
+63,Female,Hispanic,F41.9,4A02X5Z,2,Observation,Private Insurance,7630.8
+38,Male,Black,I48.91,0U5B7ZZ,2,Observation,Private Insurance,3786.89
+82,Female,Hispanic,I48.91,4A02X4Z,14,Medical Therapy,Medicare,20233.32
+40,Female,Other,I25.10,0U5B7ZZ,4,Medical Therapy,Private Insurance,9096.27
+49,Female,White,I48.91,0U5B7ZZ,1,Emergency Care,Medicare,5648.5
+69,Male,Asian,I10,0WQF1ZZ,3,Surgery,Private Insurance,15905.16
+32,Male,White,I50.9,3E0P3MZ,1,Medical Therapy,Private Insurance,6664.29
+59,Male,White,M79.3,0U5B7ZZ,1,Medical Therapy,Medicare,8264.2
+78,Female,White,I63.9,0WQF1ZZ,2,Observation,Medicaid,3496.34
+26,Male,White,E78.5,4A02X4Z,7,Rehabilitation,Medicare,4663.47
+58,Female,White,E03.9,0WQF0ZZ,7,Surgery,Medicaid,12222.76
+59,Female,White,N18.9,4A02X4Z,1,Emergency Care,Private Insurance,13655.5
+69,Male,White,I25.10,0D160Z4,2,Emergency Care,Medicare,6968.8
+32,Female,Hispanic,E66.9,0U5B7ZZ,1,Surgery,Medicare,11367.6
+31,Male,Hispanic,F41.9,0U5B7ZZ,16,Medical Therapy,Uninsured,15095.77
+64,Female,White,E03.9,0WQF0ZZ,11,Medical Therapy,Medicare,14015.8
+60,Male,White,C50.919,0U5B8ZZ,3,Rehabilitation,Medicare,7935.52
+59,Female,White,N18.9,0U5B7ZZ,4,Surgery,Medicare,14986.83
+61,Female,White,E78.5,3E0P3MZ,3,Observation,Private Insurance,7301.71
+42,Female,White,C50.919,3E0P3NZ,2,Medical Therapy,Private Insurance,8045.79
+59,Female,White,I48.91,0U5B7ZZ,1,Observation,Medicare,5732.08
+60,Female,White,E78.5,3E0P3NZ,1,Medical Therapy,Medicare,5801.63
+42,Female,Asian,M79.3,4A02X4Z,3,Medical Therapy,Medicare,4993.86
+88,Female,White,F41.9,0D160Z5,3,Emergency Care,Medicare,9321.12
+63,Female,White,K21.9,0U5B8ZZ,1,Emergency Care,Private Insurance,7620.63
+33,Male,White,E78.5,0WQF1ZZ,8,Emergency Care,Private Insurance,18948.23
+66,Female,White,C50.919,4A02X5Z,1,Surgery,Medicare,10962.86
+37,Female,White,I63.9,0U5B8ZZ,2,Observation,Medicare,4090.04
+69,Female,Black,F41.9,4A02X5Z,3,Surgery,Medicare,12797.04
+75,Male,White,E03.9,4A02X4Z,3,Medical Therapy,Uninsured,4982.88
+40,Female,White,J45.909,0U5B8ZZ,3,Medical Therapy,Uninsured,5816.45
+72,Male,Other,J45.909,0WQF1ZZ,1,Medical Therapy,Medicaid,3003.73
+62,Female,Hispanic,I48.91,4A02X5Z,1,Medical Therapy,Medicare,5214.42
+69,Male,Black,N18.9,0WQF0ZZ,3,Rehabilitation,Medicare,11061.45
+89,Female,White,N18.9,3E0P3MZ,2,Surgery,Medicare,12019.56
+50,Female,Black,K21.9,0U5B8ZZ,1,Observation,Medicare,4279.91
+41,Male,White,J45.909,4A02X4Z,3,Medical Therapy,Private Insurance,6883.38
+38,Female,White,E66.9,0U5B7ZZ,1,Surgery,Medicaid,7459.69
+40,Male,White,C50.919,0WQF1ZZ,3,Surgery,Medicaid,11881.27
+53,Female,White,N18.9,4A02X5Z,5,Emergency Care,Medicaid,8620.5
+61,Female,White,E78.5,4A02X5Z,1,Emergency Care,Medicare,10625.89
+59,Female,White,N18.9,3E0P3MZ,1,Emergency Care,Private Insurance,11239.79
+69,Female,Asian,E11.9,4A02X5Z,4,Rehabilitation,Medicare,13040.92
+55,Female,Hispanic,K21.9,3E0P3NZ,2,Surgery,Medicare,12402.69
+81,Male,Black,E66.9,0D160Z4,3,Medical Therapy,Private Insurance,8171.54
+50,Male,White,I25.10,3E0P3NZ,5,Observation,Medicare,8053.41
+95,Female,Hispanic,I10,4A02X5Z,4,Medical Therapy,Private Insurance,9669.86
+66,Female,White,I50.9,0WQF1ZZ,9,Medical Therapy,Medicare,11598.01
+39,Female,Hispanic,F41.9,0U5B8ZZ,2,Medical Therapy,Private Insurance,8584.63
+35,Female,White,I10,4A02X4Z,2,Medical Therapy,Medicaid,3169.99
+63,Male,Hispanic,E66.9,0U5B7ZZ,1,Medical Therapy,Medicare,8056.03
+50,Female,White,I10,0U5B8ZZ,1,Surgery,Medicaid,6983.84
+67,Male,Hispanic,M79.3,0WQF0ZZ,2,Medical Therapy,Medicare,6503.9
+63,Female,Asian,I63.9,0U5B8ZZ,1,Medical Therapy,Private Insurance,8086.66
+53,Male,White,E66.9,0U5B8ZZ,7,Medical Therapy,Private Insurance,12271.78
+39,Male,White,E66.9,4A02X4Z,2,Surgery,Private Insurance,15015.96
+27,Male,Other,F41.9,3E0P3MZ,2,Observation,Uninsured,1982.07
+46,Male,White,I25.10,4A02X5Z,1,Surgery,Medicare,11319.73
+70,Female,Hispanic,N18.9,3E0P3MZ,1,Medical Therapy,Private Insurance,9326.43
+58,Male,White,I63.9,0WQF0ZZ,1,Observation,Private Insurance,6220.96
+32,Male,White,M79.3,0D160Z5,1,Medical Therapy,Medicaid,2946.53
+58,Male,White,C50.919,0U5B7ZZ,1,Medical Therapy,Medicare,4258.46
+61,Male,White,I10,3E0P3NZ,2,Observation,Medicaid,3990.65
+39,Male,Hispanic,F41.9,0U5B7ZZ,6,Medical Therapy,Private Insurance,7806.03
+57,Male,White,E66.9,4A02X5Z,6,Observation,Medicare,4288.76
+56,Female,White,C50.919,0U5B7ZZ,3,Observation,Private Insurance,5827.24
+34,Female,White,E11.9,0D160Z4,1,Observation,Medicare,3627.23
+61,Female,White,I50.9,3E0P3NZ,5,Medical Therapy,Private Insurance,17243.54
+65,Male,Hispanic,I10,0WQF0ZZ,6,Surgery,Medicaid,17658.1
+74,Male,Other,J45.909,4A02X5Z,1,Medical Therapy,Private Insurance,11141.25
+73,Female,White,I25.10,0WQF1ZZ,4,Medical Therapy,Private Insurance,10739.32
+30,Female,Hispanic,I25.10,0WQF0ZZ,1,Medical Therapy,Private Insurance,6482.45
+38,Male,Hispanic,I25.10,0D160Z4,4,Medical Therapy,Medicare,7076.93
+64,Male,White,K21.9,3E0P3NZ,17,Medical Therapy,Medicare,27382.65
+64,Male,Asian,K21.9,4A02X4Z,1,Surgery,Private Insurance,11959.54
+64,Male,White,E78.5,0D160Z4,6,Medical Therapy,Medicare,8811.05
+95,Male,White,C50.919,0WQF0ZZ,2,Medical Therapy,Medicare,9755.58
+65,Female,Hispanic,E03.9,4A02X5Z,10,Observation,Private Insurance,11427.8
+75,Female,White,I50.9,0D160Z5,1,Surgery,Medicare,11193.41
+72,Female,Hispanic,M79.3,4A02X5Z,5,Medical Therapy,Medicare,11372.4
+66,Female,Hispanic,I48.91,3E0P3NZ,1,Emergency Care,Private Insurance,11618.59
+49,Female,White,I63.9,0D160Z5,1,Surgery,Medicare,10027.4
+68,Female,Hispanic,I63.9,3E0P3MZ,1,Medical Therapy,Medicaid,6025.63
+41,Female,White,I63.9,3E0P3NZ,11,Surgery,Medicaid,13026.94
+50,Male,White,N18.9,3E0P3NZ,5,Observation,Private Insurance,4984.07
+46,Male,Black,I10,0D160Z4,5,Medical Therapy,Medicare,10189.46
+56,Male,Asian,I48.91,4A02X5Z,8,Medical Therapy,Medicaid,8438.57
+95,Female,White,E03.9,0WQF0ZZ,1,Medical Therapy,Medicaid,6658.12
+21,Female,White,N18.9,4A02X4Z,1,Emergency Care,Medicaid,7696.88
+67,Male,Black,M79.3,0U5B7ZZ,1,Surgery,Medicare,11379.45
+25,Female,Black,I63.9,0U5B8ZZ,1,Surgery,Private Insurance,9578.86
+46,Male,Black,E03.9,4A02X4Z,1,Emergency Care,Medicaid,8631.86
+74,Female,White,N18.9,0U5B7ZZ,1,Medical Therapy,Private Insurance,7262.86
+56,Male,White,E11.9,3E0P3MZ,1,Emergency Care,Private Insurance,13509.98
+35,Male,White,I48.91,0WQF0ZZ,1,Medical Therapy,Private Insurance,7174.06
+42,Female,Hispanic,K21.9,4A02X5Z,1,Emergency Care,Private Insurance,13298.66
+67,Male,White,M79.3,0WQF1ZZ,1,Medical Therapy,Medicare,5546.53
+41,Male,White,I63.9,3E0P3NZ,10,Observation,Private Insurance,12795.71
+58,Male,Asian,F41.9,4A02X4Z,4,Emergency Care,Medicare,13646.4
+55,Female,White,I50.9,0U5B7ZZ,10,Medical Therapy,Private Insurance,11115.77
+43,Female,Other,J45.909,0WQF1ZZ,1,Surgery,Medicare,4634.09
+93,Male,Black,E11.9,4A02X4Z,1,Medical Therapy,Private Insurance,7811.47
+66,Female,Hispanic,K21.9,0WQF0ZZ,4,Surgery,Medicare,16289.85
+18,Female,White,I25.10,4A02X5Z,1,Surgery,Private Insurance,10119.99
+58,Male,White,K21.9,0D160Z5,1,Medical Therapy,Medicaid,5296.67
+43,Male,Hispanic,E03.9,4A02X4Z,1,Medical Therapy,Medicare,5301.31
+70,Male,Hispanic,E66.9,4A02X4Z,1,Medical Therapy,Medicare,6404.44
+40,Male,Hispanic,E78.5,4A02X5Z,1,Medical Therapy,Medicare,6296.59
+52,Female,White,E11.9,3E0P3MZ,1,Observation,Medicaid,2554.47
+64,Male,Hispanic,I25.10,0D160Z4,3,Surgery,Private Insurance,17941.69
+70,Female,Hispanic,E03.9,4A02X4Z,1,Surgery,Private Insurance,12075.59
+33,Female,Black,E66.9,4A02X5Z,1,Surgery,Medicare,7228.23
+48,Male,Hispanic,M79.3,0D160Z4,4,Medical Therapy,Private Insurance,11685.43
+46,Female,Hispanic,I50.9,4A02X5Z,1,Surgery,Medicaid,7056.6
+43,Male,Black,K21.9,4A02X5Z,1,Medical Therapy,Medicaid,4627.18
+86,Female,White,I48.91,3E0P3MZ,5,Medical Therapy,Private Insurance,17298.83
+62,Female,White,F41.9,4A02X5Z,1,Emergency Care,Medicare,10876.34
+32,Female,White,M79.3,0WQF0ZZ,1,Surgery,Medicare,7951.98
+71,Female,White,I25.10,4A02X4Z,1,Observation,Medicare,4285.65
+93,Male,White,E03.9,0U5B7ZZ,1,Observation,Medicare,4016.9
+73,Female,White,I63.9,0U5B7ZZ,2,Observation,Medicare,6549.52
+27,Female,White,E78.5,0U5B7ZZ,4,Emergency Care,Medicare,12254.14
+46,Female,White,I63.9,4A02X5Z,1,Surgery,Medicare,11239.0
+77,Female,Hispanic,K21.9,0WQF1ZZ,2,Surgery,Medicaid,14107.17
+42,Female,Asian,F41.9,0D160Z4,2,Emergency Care,Private Insurance,9342.53
+62,Male,White,I50.9,0D160Z4,1,Medical Therapy,Medicaid,3811.1
+68,Male,Asian,E78.5,4A02X5Z,2,Medical Therapy,Private Insurance,9786.55
+38,Female,White,N18.9,0WQF0ZZ,1,Observation,Medicare,4229.16
+53,Male,White,E03.9,0WQF0ZZ,2,Observation,Private Insurance,7376.77
+18,Female,White,M79.3,3E0P3NZ,1,Emergency Care,Medicare,6090.07
+36,Female,White,F41.9,4A02X5Z,1,Rehabilitation,Private Insurance,6879.36
+50,Male,Hispanic,C50.919,0U5B8ZZ,1,Observation,Medicare,3779.08
+32,Male,Black,K21.9,3E0P3MZ,5,Medical Therapy,Uninsured,6827.58
+84,Female,White,E66.9,0U5B7ZZ,1,Emergency Care,Medicare,10190.69
+29,Male,White,K21.9,3E0P3MZ,1,Surgery,Medicare,8416.14
+47,Female,White,I25.10,0U5B7ZZ,1,Surgery,Medicaid,10327.96
+57,Male,White,F41.9,0D160Z5,3,Emergency Care,Medicare,9743.45
+80,Female,White,I50.9,0D160Z5,2,Medical Therapy,Private Insurance,12092.06
+29,Male,White,J45.909,4A02X5Z,3,Surgery,Private Insurance,15280.32
+75,Female,Hispanic,E66.9,0D160Z5,4,Surgery,Medicaid,9004.8
+55,Male,Asian,N18.9,0WQF1ZZ,5,Emergency Care,Uninsured,9182.31
+37,Female,White,E78.5,3E0P3NZ,1,Medical Therapy,Uninsured,2353.74
+63,Male,Hispanic,E11.9,0WQF0ZZ,2,Observation,Medicare,4690.44
+58,Female,White,E11.9,0WQF1ZZ,5,Surgery,Medicaid,12835.22
+44,Female,White,F41.9,3E0P3MZ,13,Observation,Private Insurance,14017.66
+56,Male,White,K21.9,3E0P3MZ,6,Observation,Private Insurance,6723.83
+48,Male,Black,I25.10,0D160Z5,1,Medical Therapy,Medicare,6012.71
+57,Male,Other,I10,0WQF0ZZ,1,Medical Therapy,Private Insurance,8147.22
+66,Female,Black,I48.91,3E0P3NZ,2,Surgery,Uninsured,10466.02
+83,Female,White,F41.9,0U5B7ZZ,4,Rehabilitation,Medicaid,12201.65
+32,Female,Black,K21.9,0WQF1ZZ,2,Observation,Private Insurance,6748.8
+93,Male,White,I63.9,3E0P3NZ,1,Emergency Care,Medicare,11662.9
+19,Male,Hispanic,E11.9,4A02X4Z,5,Medical Therapy,Medicare,7734.81
+52,Female,White,E11.9,0D160Z4,1,Observation,Medicaid,2953.02
+65,Female,White,N18.9,0D160Z5,5,Observation,Private Insurance,6283.18
+60,Female,White,M79.3,0U5B7ZZ,1,Observation,Private Insurance,6318.63
+43,Male,Black,I10,4A02X4Z,1,Rehabilitation,Medicare,7584.64
+51,Female,White,K21.9,0U5B7ZZ,1,Medical Therapy,Private Insurance,5546.62
+46,Male,Black,E66.9,0U5B7ZZ,4,Surgery,Private Insurance,12426.53
+44,Male,White,N18.9,0D160Z5,1,Observation,Medicaid,2924.05
+70,Female,Black,E66.9,0U5B7ZZ,1,Observation,Private Insurance,5462.06
+61,Female,Hispanic,I25.10,3E0P3NZ,9,Medical Therapy,Medicare,10949.23
+42,Female,Hispanic,N18.9,3E0P3NZ,1,Surgery,Private Insurance,12057.03
+71,Male,White,K21.9,4A02X4Z,2,Medical Therapy,Medicare,8680.33
+60,Male,White,E03.9,3E0P3MZ,2,Medical Therapy,Uninsured,5811.68
+69,Female,White,C50.919,0WQF0ZZ,2,Medical Therapy,Medicare,8021.84
+66,Female,Hispanic,J45.909,0WQF1ZZ,3,Observation,Private Insurance,3414.43
+40,Male,White,F41.9,0WQF1ZZ,1,Observation,Medicare,2474.56
+44,Male,White,K21.9,0U5B8ZZ,2,Surgery,Private Insurance,11319.3
+68,Male,White,I50.9,0D160Z5,1,Medical Therapy,Private Insurance,6919.87
+65,Female,White,E11.9,4A02X5Z,3,Medical Therapy,Private Insurance,11113.19
+54,Male,Black,I10,4A02X5Z,1,Surgery,Medicare,8679.03
+57,Male,White,I63.9,4A02X4Z,2,Observation,Medicare,5319.54
+77,Male,Hispanic,I63.9,0U5B7ZZ,1,Emergency Care,Medicare,8705.86
+44,Male,White,E66.9,0U5B7ZZ,1,Medical Therapy,Private Insurance,5014.83
+64,Male,White,I10,0D160Z5,1,Observation,Medicare,3391.78
+51,Female,White,F41.9,0D160Z4,1,Emergency Care,Private Insurance,15209.7
+51,Male,White,M79.3,3E0P3MZ,5,Emergency Care,Medicaid,9609.52
+74,Female,White,J45.909,0U5B8ZZ,1,Surgery,Medicaid,12292.53
+69,Male,Black,I50.9,3E0P3NZ,7,Rehabilitation,Private Insurance,10949.06
+69,Female,White,E11.9,0U5B7ZZ,10,Medical Therapy,Private Insurance,20405.78
+78,Female,Hispanic,C50.919,0U5B8ZZ,2,Medical Therapy,Medicare,8184.03
+55,Female,White,I63.9,0WQF1ZZ,1,Surgery,Private Insurance,13679.65
+67,Female,White,F41.9,0D160Z4,1,Medical Therapy,Medicaid,6193.42
+49,Male,Hispanic,F41.9,3E0P3NZ,4,Surgery,Medicare,15481.56
+60,Male,White,E66.9,0D160Z5,1,Surgery,Private Insurance,15642.66
+52,Female,White,F41.9,0U5B8ZZ,1,Medical Therapy,Medicaid,4506.52
+56,Female,White,I10,4A02X4Z,2,Emergency Care,Medicaid,7712.12
+65,Female,White,I50.9,3E0P3NZ,5,Emergency Care,Medicare,13973.73
+40,Female,Hispanic,I48.91,0D160Z5,4,Medical Therapy,Private Insurance,10254.71
+92,Female,White,N18.9,4A02X5Z,1,Emergency Care,Medicare,11188.83
+36,Male,Hispanic,M79.3,0D160Z5,3,Emergency Care,Medicare,11224.47
+33,Male,Hispanic,F41.9,0D160Z5,1,Observation,Medicaid,3429.13
+75,Female,White,K21.9,3E0P3NZ,1,Surgery,Medicaid,10400.19
+69,Female,Hispanic,K21.9,0D160Z4,6,Observation,Medicaid,4098.55
+66,Male,White,F41.9,3E0P3NZ,1,Emergency Care,Medicare,8619.74
+66,Female,Asian,E03.9,0WQF0ZZ,1,Observation,Medicaid,5361.87
+54,Male,White,E66.9,3E0P3MZ,1,Medical Therapy,Private Insurance,7636.29
+38,Female,Black,I48.91,0D160Z4,6,Medical Therapy,Medicare,7613.35
+56,Male,White,E11.9,4A02X4Z,4,Observation,Private Insurance,7277.4
+42,Male,White,I50.9,0D160Z4,2,Medical Therapy,Medicare,6846.03
+72,Female,Black,E78.5,0WQF1ZZ,4,Surgery,Medicaid,12308.3
+52,Male,Black,I10,4A02X4Z,1,Medical Therapy,Private Insurance,8779.42
+40,Female,White,I25.10,4A02X5Z,1,Emergency Care,Medicare,8606.26
+49,Female,White,I25.10,3E0P3NZ,1,Emergency Care,Medicare,6581.4
+62,Female,Black,K21.9,0D160Z5,1,Surgery,Medicare,13092.49
+44,Male,Black,I63.9,3E0P3NZ,1,Rehabilitation,Medicare,5949.14
+40,Male,Asian,E78.5,0WQF1ZZ,7,Medical Therapy,Private Insurance,11242.27
+59,Male,Hispanic,I25.10,0U5B8ZZ,1,Observation,Medicaid,3011.93
+59,Female,Asian,J45.909,0WQF1ZZ,1,Observation,Medicare,4789.55
+45,Female,Black,J45.909,0WQF0ZZ,1,Emergency Care,Medicare,7924.33
+46,Female,White,E11.9,0D160Z5,1,Emergency Care,Private Insurance,11421.27
+59,Female,White,E78.5,0D160Z5,7,Medical Therapy,Medicaid,8221.78
+28,Female,Hispanic,J45.909,0U5B7ZZ,1,Emergency Care,Medicare,6085.77
+29,Female,Black,J45.909,0U5B8ZZ,1,Surgery,Medicare,7235.31
+42,Male,White,I48.91,0U5B7ZZ,4,Observation,Private Insurance,6897.21
+51,Female,White,K21.9,4A02X5Z,1,Observation,Medicare,3456.15
+60,Male,Asian,I25.10,3E0P3MZ,2,Observation,Medicare,4593.5
+81,Female,White,E11.9,3E0P3MZ,1,Medical Therapy,Private Insurance,7739.68
+70,Female,White,I50.9,3E0P3NZ,2,Emergency Care,Private Insurance,14541.34
+52,Female,White,F41.9,3E0P3MZ,23,Surgery,Private Insurance,31027.69
+54,Male,White,N18.9,0D160Z5,4,Surgery,Private Insurance,18492.64
+36,Male,White,I10,0WQF1ZZ,1,Observation,Private Insurance,5805.11
+54,Male,White,I10,0U5B8ZZ,5,Medical Therapy,Medicare,10888.1
+49,Male,White,I63.9,3E0P3NZ,1,Emergency Care,Medicare,7396.9
+60,Male,Hispanic,C50.919,3E0P3NZ,1,Medical Therapy,Medicare,6725.39
+40,Female,White,M79.3,0U5B8ZZ,1,Surgery,Medicare,9960.82
+64,Female,Hispanic,N18.9,0D160Z5,1,Emergency Care,Private Insurance,14944.3
+82,Male,Hispanic,E66.9,4A02X5Z,2,Medical Therapy,Medicaid,3465.92
+53,Male,White,N18.9,4A02X5Z,2,Surgery,Uninsured,11168.21
+62,Male,Black,I10,3E0P3NZ,7,Observation,Private Insurance,8526.99
+67,Female,White,I10,4A02X5Z,2,Medical Therapy,Medicare,6091.44
+47,Female,Hispanic,I50.9,0D160Z5,2,Observation,Medicare,3702.63
+59,Female,White,E78.5,0WQF0ZZ,1,Medical Therapy,Medicaid,3996.1
+55,Female,Black,E78.5,0WQF0ZZ,1,Emergency Care,Private Insurance,9480.08
+56,Female,Black,I50.9,0U5B7ZZ,2,Emergency Care,Private Insurance,9573.29
+41,Female,White,I25.10,0D160Z4,1,Observation,Medicaid,3394.08
+55,Male,White,N18.9,4A02X4Z,5,Surgery,Private Insurance,21582.75
+63,Female,Black,E03.9,3E0P3MZ,1,Emergency Care,Medicaid,7912.04
+81,Male,Hispanic,N18.9,4A02X5Z,1,Observation,Medicare,6428.88
+72,Female,White,I48.91,0WQF0ZZ,1,Observation,Private Insurance,5073.02
+93,Male,Black,M79.3,0WQF1ZZ,1,Medical Therapy,Medicaid,6342.42
+41,Female,White,I10,0U5B8ZZ,1,Emergency Care,Medicare,7150.49
+70,Female,Black,C50.919,0D160Z4,3,Observation,Private Insurance,7673.47
+58,Female,White,E66.9,0U5B7ZZ,1,Surgery,Medicare,12372.63
+94,Female,Hispanic,N18.9,4A02X4Z,2,Medical Therapy,Uninsured,7154.97
+40,Male,White,I10,0WQF0ZZ,1,Emergency Care,Medicare,7635.65
+39,Male,White,N18.9,0U5B7ZZ,1,Surgery,Private Insurance,8332.4
+44,Male,White,M79.3,0D160Z4,1,Rehabilitation,Medicare,6066.01
+18,Male,White,I25.10,0U5B8ZZ,4,Observation,Private Insurance,7083.2
+45,Female,White,F41.9,3E0P3MZ,1,Observation,Medicare,4583.89
+41,Male,White,E03.9,0WQF0ZZ,4,Medical Therapy,Medicare,7861.66
+57,Female,Hispanic,I63.9,0U5B8ZZ,1,Surgery,Private Insurance,12154.58
+61,Female,White,J45.909,4A02X4Z,4,Emergency Care,Medicaid,11069.77
+88,Female,White,I48.91,4A02X5Z,1,Medical Therapy,Medicare,6819.11
+72,Male,White,I50.9,0D160Z4,3,Observation,Medicare,7022.92
+44,Female,White,I50.9,4A02X4Z,2,Medical Therapy,Medicaid,4527.2
+38,Female,White,I63.9,3E0P3MZ,7,Surgery,Private Insurance,24630.62
+63,Female,White,E03.9,0U5B8ZZ,1,Surgery,Medicaid,8948.75
+31,Female,White,C50.919,0D160Z5,1,Medical Therapy,Medicare,6087.05
+87,Female,White,N18.9,3E0P3MZ,1,Rehabilitation,Private Insurance,11676.25
+76,Male,White,J45.909,3E0P3NZ,5,Medical Therapy,Medicare,8263.19
+46,Female,White,M79.3,0WQF0ZZ,2,Medical Therapy,Medicare,5825.83
+24,Male,White,E78.5,4A02X5Z,4,Medical Therapy,Private Insurance,9298.55
+79,Male,White,N18.9,0D160Z4,1,Medical Therapy,Private Insurance,7673.96
+52,Male,Asian,I25.10,0WQF1ZZ,1,Medical Therapy,Medicaid,5142.67
+77,Male,White,I10,0U5B8ZZ,1,Emergency Care,Medicare,9268.01
+26,Male,Black,I63.9,0D160Z5,9,Medical Therapy,Private Insurance,17100.57
+44,Male,White,E11.9,0WQF1ZZ,3,Medical Therapy,Private Insurance,11588.75
+55,Female,Hispanic,N18.9,0WQF0ZZ,8,Surgery,Uninsured,19788.79
+55,Female,Hispanic,F41.9,0WQF0ZZ,1,Rehabilitation,Medicare,6898.04
+46,Female,White,I48.91,0D160Z4,2,Surgery,Medicare,10277.61
+66,Male,Other,C50.919,0D160Z5,3,Surgery,Medicare,11897.69
+35,Male,White,E66.9,0WQF0ZZ,1,Observation,Private Insurance,5586.08
+52,Female,White,C50.919,0WQF1ZZ,5,Medical Therapy,Medicare,10248.29
+57,Male,Hispanic,I48.91,0D160Z5,8,Medical Therapy,Medicaid,11718.37
+64,Male,Hispanic,E11.9,0WQF1ZZ,6,Medical Therapy,Medicare,9405.14
+67,Female,White,N18.9,3E0P3MZ,4,Observation,Medicaid,3467.75
+34,Male,White,I48.91,4A02X4Z,1,Surgery,Medicare,6187.18
+27,Female,White,E03.9,0D160Z5,1,Emergency Care,Private Insurance,8595.45
+77,Female,White,F41.9,0U5B7ZZ,9,Observation,Medicaid,7045.52
+60,Male,Hispanic,E11.9,4A02X4Z,1,Medical Therapy,Medicare,5339.45
+41,Male,White,N18.9,4A02X4Z,3,Medical Therapy,Uninsured,5574.99
+82,Female,White,I50.9,0D160Z5,3,Medical Therapy,Private Insurance,12568.55
+57,Male,White,F41.9,4A02X5Z,2,Observation,Medicaid,3586.9
+76,Male,White,C50.919,0WQF0ZZ,13,Medical Therapy,Private Insurance,13979.57
+56,Female,White,E11.9,3E0P3MZ,1,Medical Therapy,Medicare,5135.16
+92,Male,Black,C50.919,4A02X5Z,1,Medical Therapy,Medicare,5981.53
+86,Female,Other,N18.9,4A02X5Z,1,Rehabilitation,Medicare,9785.22
+50,Female,Hispanic,C50.919,0U5B7ZZ,1,Medical Therapy,Medicare,5665.34
+72,Male,White,E78.5,0U5B8ZZ,1,Emergency Care,Medicare,13747.22
+66,Male,Hispanic,I10,0D160Z5,1,Medical Therapy,Medicare,7328.93
+79,Male,Hispanic,E78.5,0WQF1ZZ,5,Surgery,Private Insurance,29546.24
+37,Male,Hispanic,I63.9,0WQF0ZZ,8,Surgery,Medicaid,11651.44
+67,Male,White,I63.9,4A02X5Z,1,Medical Therapy,Medicare,2248.57
+74,Female,White,J45.909,3E0P3MZ,1,Surgery,Medicare,12740.47
+23,Male,White,N18.9,0U5B8ZZ,7,Surgery,Private Insurance,19780.75
+33,Female,White,K21.9,0U5B7ZZ,1,Emergency Care,Medicare,7176.82
+18,Female,White,I25.10,3E0P3NZ,1,Emergency Care,Medicare,6466.57
+50,Female,White,C50.919,0WQF0ZZ,1,Observation,Medicare,3076.75
+67,Female,White,E78.5,3E0P3NZ,2,Surgery,Medicaid,12737.45
+82,Male,Hispanic,E11.9,4A02X4Z,1,Surgery,Medicaid,13050.99
+56,Female,White,E03.9,4A02X5Z,10,Surgery,Medicare,16991.68
+84,Female,White,E66.9,0D160Z4,1,Observation,Private Insurance,5724.32
+30,Male,Asian,F41.9,0WQF0ZZ,2,Emergency Care,Private Insurance,9477.48
+24,Male,Asian,I25.10,0WQF1ZZ,1,Medical Therapy,Private Insurance,4762.11
+54,Female,Hispanic,K21.9,0U5B8ZZ,1,Surgery,Private Insurance,9881.3
+61,Male,Other,C50.919,3E0P3MZ,3,Medical Therapy,Private Insurance,9318.25
+54,Male,White,M79.3,0WQF0ZZ,4,Medical Therapy,Medicare,8427.81
+18,Male,Asian,N18.9,0WQF1ZZ,4,Medical Therapy,Medicare,5610.19
+53,Male,White,E03.9,0D160Z5,2,Observation,Private Insurance,4364.63
+31,Female,White,N18.9,3E0P3NZ,7,Observation,Medicaid,6150.72
+67,Female,White,J45.909,0D160Z5,5,Surgery,Private Insurance,17348.06
+61,Female,White,K21.9,0U5B8ZZ,4,Surgery,Medicaid,12496.28
+38,Male,White,F41.9,0U5B7ZZ,1,Rehabilitation,Uninsured,4370.41
+45,Male,Black,C50.919,4A02X5Z,1,Surgery,Medicare,12242.84
+35,Female,Hispanic,F41.9,0WQF0ZZ,1,Surgery,Private Insurance,9403.44
+53,Male,White,N18.9,0D160Z4,3,Surgery,Private Insurance,21439.63
+72,Male,White,E11.9,3E0P3NZ,1,Surgery,Uninsured,10726.89
+37,Female,Hispanic,J45.909,3E0P3NZ,1,Medical Therapy,Uninsured,5395.33
+64,Male,Black,I50.9,0WQF0ZZ,6,Emergency Care,Private Insurance,20562.64
+45,Female,White,M79.3,4A02X4Z,6,Medical Therapy,Medicare,8645.13
+40,Male,Black,K21.9,0D160Z5,7,Medical Therapy,Medicaid,6924.15
+53,Male,White,I10,3E0P3NZ,1,Observation,Medicare,3774.66
+36,Male,White,E03.9,0WQF1ZZ,3,Medical Therapy,Medicaid,7473.35
+45,Female,Asian,E78.5,3E0P3MZ,1,Emergency Care,Medicaid,7190.39
+33,Female,White,C50.919,4A02X5Z,1,Emergency Care,Medicare,8330.04
+90,Female,White,I63.9,3E0P3NZ,1,Surgery,Private Insurance,17114.27
+55,Female,Hispanic,E66.9,0WQF1ZZ,1,Observation,Private Insurance,5295.33
+42,Male,Black,N18.9,0U5B8ZZ,1,Medical Therapy,Private Insurance,6864.03
+58,Female,White,E03.9,0U5B8ZZ,5,Rehabilitation,Medicare,11751.24
+52,Male,White,E03.9,4A02X5Z,1,Medical Therapy,Medicaid,4286.35
+51,Female,White,I10,4A02X4Z,3,Rehabilitation,Medicaid,7212.39
+66,Male,Black,I48.91,0D160Z4,2,Observation,Medicaid,4697.68
+68,Female,White,I10,4A02X5Z,1,Surgery,Medicare,12045.38
+45,Male,White,J45.909,0U5B7ZZ,2,Medical Therapy,Medicaid,4974.52
+44,Male,Asian,K21.9,4A02X4Z,1,Rehabilitation,Private Insurance,8579.9
+50,Female,White,E11.9,3E0P3NZ,2,Emergency Care,Medicare,8106.72
+18,Male,White,M79.3,4A02X5Z,1,Surgery,Medicare,5751.61
+27,Male,White,I63.9,0D160Z5,1,Observation,Medicare,3435.92
+79,Male,Black,F41.9,0U5B8ZZ,1,Medical Therapy,Medicaid,4713.87
+84,Male,White,I10,0WQF1ZZ,2,Surgery,Private Insurance,18400.18
+50,Female,White,I10,4A02X5Z,6,Medical Therapy,Private Insurance,6900.69
+65,Female,Hispanic,C50.919,0D160Z5,1,Surgery,Medicare,9764.98
+60,Female,White,E78.5,4A02X4Z,3,Emergency Care,Private Insurance,12951.96
+95,Female,White,I50.9,0U5B7ZZ,3,Medical Therapy,Medicare,6199.68
+75,Male,White,I10,0WQF1ZZ,8,Emergency Care,Medicare,16429.33
+52,Female,White,I50.9,3E0P3MZ,5,Surgery,Private Insurance,23512.97
+37,Male,White,J45.909,0U5B7ZZ,2,Medical Therapy,Medicare,4330.17
+26,Male,White,E11.9,3E0P3NZ,3,Surgery,Medicaid,8981.57
+58,Female,White,E03.9,0D160Z5,6,Surgery,Medicare,23236.73
+41,Male,White,E66.9,4A02X5Z,1,Surgery,Private Insurance,9123.09
+29,Female,Hispanic,I48.91,4A02X5Z,1,Surgery,Private Insurance,13299.83
+43,Male,Other,F41.9,0WQF0ZZ,1,Medical Therapy,Private Insurance,6179.78
+35,Female,Hispanic,I10,0U5B8ZZ,5,Medical Therapy,Medicare,8035.51
+85,Female,Hispanic,N18.9,3E0P3NZ,4,Medical Therapy,Medicare,11834.28
+70,Female,White,E66.9,0D160Z5,1,Medical Therapy,Medicaid,5273.41
+54,Female,Asian,C50.919,4A02X5Z,2,Emergency Care,Medicare,11098.75
+81,Female,White,I50.9,3E0P3MZ,1,Emergency Care,Medicaid,11086.58
+56,Male,Asian,E78.5,0WQF1ZZ,1,Medical Therapy,Uninsured,4018.65
+39,Female,Other,M79.3,3E0P3NZ,11,Medical Therapy,Medicare,10490.46
+82,Male,Black,E78.5,4A02X4Z,1,Surgery,Medicare,12212.87
+64,Female,Other,I10,3E0P3MZ,1,Rehabilitation,Private Insurance,8875.36
+36,Female,White,K21.9,0WQF1ZZ,2,Surgery,Uninsured,6323.87
+51,Female,White,C50.919,0D160Z4,4,Medical Therapy,Medicaid,6101.76
+39,Male,White,E03.9,0U5B8ZZ,1,Medical Therapy,Private Insurance,1939.37
+30,Male,White,E11.9,3E0P3NZ,3,Medical Therapy,Medicaid,5150.96
+71,Female,White,N18.9,0D160Z5,2,Surgery,Medicare,15564.74
+89,Male,Black,K21.9,0U5B7ZZ,1,Observation,Uninsured,2694.98
+29,Male,Other,E78.5,0WQF1ZZ,1,Surgery,Uninsured,6002.26
+65,Male,White,I50.9,4A02X4Z,2,Observation,Medicare,7361.21
+43,Female,Hispanic,I50.9,4A02X5Z,1,Surgery,Medicare,9595.51
+46,Female,Hispanic,K21.9,0U5B7ZZ,8,Surgery,Medicare,24097.34
+44,Male,Asian,I50.9,3E0P3MZ,5,Emergency Care,Medicare,9906.4
+39,Male,Asian,E78.5,0U5B8ZZ,12,Surgery,Medicaid,22832.73
+55,Male,White,C50.919,0D160Z5,1,Emergency Care,Medicare,6751.75
+40,Female,Other,K21.9,0U5B7ZZ,10,Medical Therapy,Medicare,12638.49
+59,Female,Hispanic,E78.5,4A02X4Z,1,Surgery,Medicare,12777.0
+54,Male,White,N18.9,0WQF1ZZ,1,Rehabilitation,Uninsured,6120.63
+50,Male,White,E03.9,0D160Z5,1,Surgery,Private Insurance,11613.45
+38,Male,Black,M79.3,0D160Z4,1,Emergency Care,Private Insurance,9922.15
+44,Female,White,N18.9,4A02X5Z,3,Surgery,Medicare,13012.53
+68,Female,Black,N18.9,0U5B8ZZ,1,Emergency Care,Uninsured,8566.98
+64,Male,Black,I50.9,0U5B7ZZ,1,Surgery,Medicaid,9830.49
+37,Male,White,I10,0U5B8ZZ,2,Medical Therapy,Medicare,6886.05
+56,Male,White,E66.9,0U5B8ZZ,1,Observation,Medicare,5351.02
+68,Female,Hispanic,I25.10,0U5B8ZZ,2,Emergency Care,Medicare,10113.41
+24,Male,White,I50.9,0WQF1ZZ,1,Emergency Care,Medicare,6812.69
+64,Female,White,I10,0U5B8ZZ,5,Emergency Care,Private Insurance,13784.39
+43,Female,White,E78.5,0D160Z4,5,Emergency Care,Medicaid,11727.21
+65,Male,White,E66.9,3E0P3MZ,1,Surgery,Private Insurance,14926.74
+41,Male,Asian,E66.9,4A02X4Z,1,Medical Therapy,Medicaid,4734.28
+22,Male,White,I25.10,0D160Z5,1,Medical Therapy,Private Insurance,5533.8
+25,Female,Black,I50.9,0D160Z4,4,Medical Therapy,Private Insurance,11344.87
+55,Female,White,C50.919,0D160Z5,1,Medical Therapy,Private Insurance,3045.23
+59,Female,White,I63.9,4A02X4Z,1,Medical Therapy,Medicare,5471.56
+38,Female,Hispanic,I25.10,3E0P3MZ,1,Surgery,Medicare,8599.21
+66,Male,Black,I25.10,3E0P3NZ,1,Observation,Private Insurance,7059.99
+25,Female,White,J45.909,0D160Z5,1,Surgery,Medicare,8958.67
+53,Female,White,E03.9,0D160Z5,5,Medical Therapy,Medicare,9552.95
+33,Male,White,J45.909,3E0P3MZ,1,Medical Therapy,Private Insurance,7505.57
+43,Female,White,I10,0U5B7ZZ,1,Observation,Uninsured,2810.57
+55,Female,Black,E11.9,0D160Z4,4,Observation,Private Insurance,7790.6
+39,Female,White,I48.91,0U5B7ZZ,5,Observation,Medicaid,4479.96
+48,Female,White,K21.9,0U5B7ZZ,1,Surgery,Private Insurance,9689.92
+73,Female,White,I63.9,0U5B7ZZ,1,Medical Therapy,Medicaid,8098.65
+44,Female,Asian,M79.3,0U5B8ZZ,1,Surgery,Private Insurance,12756.82
+70,Male,Other,E11.9,4A02X5Z,8,Medical Therapy,Medicaid,11650.58
+34,Male,White,K21.9,0D160Z5,1,Medical Therapy,Private Insurance,4742.99
+64,Female,Hispanic,E66.9,0U5B7ZZ,8,Surgery,Private Insurance,27494.46
+80,Male,White,I10,0D160Z4,3,Medical Therapy,Private Insurance,14017.39
+18,Male,White,F41.9,4A02X5Z,2,Rehabilitation,Private Insurance,6857.14
+40,Male,Hispanic,C50.919,4A02X5Z,1,Rehabilitation,Medicare,4690.73
+65,Male,Asian,I10,0U5B7ZZ,1,Medical Therapy,Medicare,6578.47
+51,Female,Asian,E78.5,0WQF1ZZ,1,Surgery,Medicare,8155.75
+61,Female,White,M79.3,0U5B7ZZ,1,Surgery,Medicaid,6790.77
+44,Male,White,C50.919,0WQF1ZZ,3,Medical Therapy,Medicare,5834.84
+56,Male,Hispanic,F41.9,0U5B7ZZ,10,Emergency Care,Medicare,16794.58
+52,Male,White,E03.9,0D160Z4,2,Surgery,Private Insurance,11441.15
+76,Female,White,E66.9,0WQF1ZZ,3,Observation,Medicare,7333.64
+59,Female,White,I25.10,0U5B8ZZ,1,Surgery,Private Insurance,18415.93
+61,Male,Black,J45.909,4A02X5Z,1,Rehabilitation,Medicare,8312.52
+47,Female,White,I48.91,0U5B7ZZ,1,Medical Therapy,Uninsured,4635.79
+46,Female,White,J45.909,4A02X5Z,2,Observation,Medicaid,3754.23
+47,Female,Asian,I48.91,0U5B7ZZ,8,Medical Therapy,Medicaid,7714.89
+62,Female,White,I10,0D160Z5,3,Observation,Private Insurance,8643.21
+47,Male,White,E66.9,0D160Z5,1,Surgery,Medicaid,8744.67
+60,Female,White,J45.909,0WQF0ZZ,1,Surgery,Medicare,9996.83
+92,Male,White,I48.91,0U5B7ZZ,2,Emergency Care,Medicare,14940.66
+70,Female,White,E66.9,0WQF0ZZ,1,Emergency Care,Medicare,9709.97
+49,Female,White,I63.9,3E0P3MZ,5,Emergency Care,Private Insurance,18640.19
+76,Female,Hispanic,I63.9,3E0P3MZ,5,Observation,Private Insurance,7634.51
+47,Female,White,I63.9,4A02X5Z,2,Emergency Care,Private Insurance,13801.45
+18,Male,Asian,C50.919,0WQF1ZZ,1,Surgery,Medicare,9105.99
+36,Female,White,F41.9,0U5B7ZZ,1,Medical Therapy,Private Insurance,7792.19
+21,Female,White,I10,4A02X4Z,1,Medical Therapy,Private Insurance,4578.04
+48,Female,White,I25.10,0U5B7ZZ,1,Observation,Private Insurance,4694.71
+55,Male,White,I10,0U5B7ZZ,1,Medical Therapy,Private Insurance,10011.74
+85,Male,Hispanic,E78.5,4A02X4Z,3,Surgery,Medicare,14862.57
+60,Male,White,E03.9,3E0P3MZ,3,Medical Therapy,Medicaid,7810.02
+51,Female,White,N18.9,0WQF0ZZ,1,Emergency Care,Private Insurance,15277.38
+69,Female,Hispanic,I50.9,4A02X5Z,1,Medical Therapy,Medicare,4112.0
+18,Male,Asian,F41.9,3E0P3MZ,1,Surgery,Medicare,7188.29
+59,Female,Hispanic,E03.9,4A02X4Z,1,Surgery,Private Insurance,13370.0
+68,Female,White,E03.9,0U5B7ZZ,5,Surgery,Medicaid,9588.0
+28,Female,Hispanic,E11.9,3E0P3MZ,1,Medical Therapy,Private Insurance,5198.37
+75,Female,White,M79.3,0D160Z4,1,Observation,Medicare,3832.42
+61,Female,White,M79.3,0D160Z5,1,Observation,Medicaid,4494.02
+47,Female,White,F41.9,0U5B7ZZ,6,Observation,Private Insurance,5107.2
+66,Male,White,I63.9,3E0P3NZ,2,Medical Therapy,Private Insurance,11973.64
+95,Female,White,K21.9,4A02X4Z,1,Emergency Care,Private Insurance,16054.05
+58,Female,White,I50.9,0U5B8ZZ,2,Surgery,Medicare,9589.21
+59,Female,Hispanic,I25.10,0WQF1ZZ,3,Medical Therapy,Private Insurance,11070.53
+46,Female,White,I63.9,0U5B8ZZ,9,Emergency Care,Medicare,18889.81
+39,Female,White,F41.9,3E0P3MZ,1,Surgery,Uninsured,7188.83
+69,Male,White,N18.9,0U5B7ZZ,6,Surgery,Private Insurance,19060.91
+39,Male,Asian,N18.9,0WQF1ZZ,8,Emergency Care,Private Insurance,20778.77
+56,Male,White,F41.9,0WQF1ZZ,7,Medical Therapy,Private Insurance,12848.28
+46,Male,White,M79.3,4A02X5Z,3,Observation,Medicaid,3717.6
+63,Female,Hispanic,E03.9,0U5B8ZZ,2,Surgery,Medicaid,8161.85
+61,Female,Hispanic,C50.919,0U5B7ZZ,1,Observation,Private Insurance,4377.21
+73,Male,White,E78.5,4A02X5Z,4,Medical Therapy,Private Insurance,9744.35
+45,Male,Black,K21.9,0WQF0ZZ,2,Surgery,Private Insurance,16716.36
+50,Female,Hispanic,I10,0U5B8ZZ,3,Observation,Private Insurance,7130.2
+37,Male,Black,K21.9,0D160Z5,1,Surgery,Medicare,8329.11
+47,Female,White,E11.9,0D160Z5,3,Medical Therapy,Private Insurance,7823.91
+61,Female,Hispanic,K21.9,4A02X5Z,5,Surgery,Medicare,19509.04
+68,Female,White,E03.9,0WQF0ZZ,1,Surgery,Medicaid,10922.37
+38,Male,White,I25.10,0D160Z4,5,Medical Therapy,Medicare,8415.97
+70,Male,White,E03.9,0D160Z4,2,Surgery,Uninsured,8770.27
+79,Female,White,C50.919,0D160Z5,5,Emergency Care,Private Insurance,17621.53
+62,Female,White,I48.91,3E0P3NZ,1,Surgery,Private Insurance,13673.64
+88,Male,Hispanic,M79.3,4A02X4Z,1,Medical Therapy,Private Insurance,8855.49
+41,Female,White,I25.10,4A02X4Z,7,Surgery,Medicare,19785.97
+32,Male,White,J45.909,3E0P3NZ,1,Medical Therapy,Medicare,5603.92
+22,Female,White,I25.10,4A02X5Z,5,Emergency Care,Medicare,8925.24
+81,Male,White,K21.9,4A02X4Z,1,Surgery,Private Insurance,13988.03
+66,Female,Other,C50.919,4A02X4Z,2,Rehabilitation,Private Insurance,8994.41
+53,Male,White,K21.9,0U5B8ZZ,1,Surgery,Medicaid,11867.33
+60,Male,White,K21.9,0U5B8ZZ,2,Observation,Medicare,6945.94
+34,Male,White,J45.909,3E0P3NZ,1,Medical Therapy,Medicare,4491.01
+95,Male,White,M79.3,0U5B7ZZ,1,Emergency Care,Private Insurance,13636.04
+57,Female,White,I10,0WQF0ZZ,1,Medical Therapy,Medicaid,6216.22
+56,Female,Black,I63.9,4A02X5Z,1,Medical Therapy,Private Insurance,6233.13
+68,Male,Asian,E66.9,0U5B8ZZ,11,Surgery,Private Insurance,35302.06
+63,Male,White,I50.9,0U5B8ZZ,10,Surgery,Private Insurance,27900.06
+59,Female,Black,M79.3,0D160Z4,1,Emergency Care,Medicare,5934.53
+40,Female,Hispanic,I63.9,0WQF0ZZ,3,Medical Therapy,Uninsured,3832.75
+63,Female,Hispanic,K21.9,0D160Z4,1,Medical Therapy,Private Insurance,7128.42
+88,Male,White,F41.9,0U5B7ZZ,3,Observation,Medicare,7684.1
+79,Male,White,I63.9,0WQF0ZZ,4,Medical Therapy,Private Insurance,9171.97
+83,Female,White,M79.3,4A02X4Z,8,Rehabilitation,Medicare,13070.79
+45,Male,Black,E11.9,0D160Z4,1,Observation,Uninsured,3089.68
+37,Female,Hispanic,N18.9,0D160Z5,4,Medical Therapy,Medicare,4826.96
+52,Male,White,N18.9,4A02X5Z,1,Emergency Care,Private Insurance,11190.54
+56,Female,White,F41.9,4A02X4Z,13,Surgery,Medicare,18141.22
+74,Male,Hispanic,I50.9,0WQF0ZZ,1,Medical Therapy,Private Insurance,9185.85
+24,Female,Hispanic,I50.9,0D160Z5,2,Medical Therapy,Medicaid,3889.45
+82,Female,Other,I48.91,0U5B7ZZ,3,Surgery,Private Insurance,15266.01
+52,Female,Hispanic,I10,0D160Z5,3,Observation,Private Insurance,6496.09
+47,Male,White,C50.919,0U5B8ZZ,1,Emergency Care,Medicaid,8551.93
+36,Female,White,E11.9,3E0P3NZ,8,Medical Therapy,Medicare,10838.54
+25,Female,Black,E03.9,0D160Z5,1,Medical Therapy,Medicare,4733.75
+69,Female,White,M79.3,0WQF1ZZ,2,Rehabilitation,Medicare,9079.67
+56,Female,White,I25.10,0U5B7ZZ,1,Medical Therapy,Uninsured,4973.27
+31,Female,Black,I25.10,4A02X4Z,1,Medical Therapy,Medicare,5246.46
+31,Female,White,E03.9,0D160Z4,2,Medical Therapy,Private Insurance,6231.54
+48,Male,Hispanic,I48.91,3E0P3MZ,1,Emergency Care,Private Insurance,11569.11
+85,Female,White,N18.9,0U5B7ZZ,1,Medical Therapy,Medicare,6088.42
+50,Female,Asian,C50.919,0WQF1ZZ,1,Observation,Medicare,4835.35
+27,Male,White,E03.9,0U5B8ZZ,1,Emergency Care,Medicare,8040.49
+50,Male,White,M79.3,0D160Z4,4,Medical Therapy,Private Insurance,13744.24
+50,Male,Black,I63.9,4A02X5Z,6,Medical Therapy,Medicare,10222.68
+18,Female,White,E11.9,3E0P3MZ,1,Emergency Care,Medicare,7498.65
+54,Female,Black,K21.9,0D160Z5,1,Medical Therapy,Medicaid,3577.04
+50,Female,Hispanic,I48.91,0WQF1ZZ,1,Observation,Uninsured,3668.4
+67,Female,White,J45.909,0D160Z5,1,Emergency Care,Medicare,11923.65
+88,Male,White,F41.9,4A02X5Z,3,Observation,Medicare,8032.03
+75,Male,White,I48.91,0U5B7ZZ,2,Observation,Medicare,5387.24
+50,Male,White,K21.9,3E0P3NZ,1,Emergency Care,Private Insurance,9684.2
+35,Male,Asian,J45.909,0WQF1ZZ,1,Emergency Care,Medicaid,5208.77
+95,Male,Hispanic,I25.10,0WQF0ZZ,1,Medical Therapy,Medicare,6159.02
+56,Male,Black,I48.91,4A02X4Z,5,Surgery,Medicare,15794.69
+55,Female,Black,F41.9,0WQF0ZZ,11,Medical Therapy,Medicaid,7562.65
+54,Female,White,I48.91,3E0P3NZ,1,Observation,Private Insurance,4236.01
+58,Female,Asian,C50.919,4A02X5Z,1,Medical Therapy,Medicare,6137.96
+52,Female,Black,I50.9,0WQF0ZZ,6,Observation,Private Insurance,8115.63
+44,Female,Black,I63.9,0U5B8ZZ,7,Medical Therapy,Medicare,7835.5
+45,Male,Hispanic,M79.3,0WQF1ZZ,1,Observation,Medicare,2870.93
+54,Female,White,K21.9,0U5B8ZZ,1,Surgery,Medicaid,7329.79
+45,Female,Hispanic,I48.91,3E0P3MZ,1,Observation,Medicaid,3238.35
+42,Male,White,E03.9,3E0P3NZ,2,Medical Therapy,Private Insurance,10509.32
+56,Male,White,E11.9,3E0P3MZ,1,Surgery,Medicaid,11519.49
+50,Female,White,E11.9,3E0P3MZ,1,Medical Therapy,Private Insurance,7226.87
+82,Male,Other,N18.9,3E0P3MZ,2,Observation,Medicaid,5411.71
+18,Female,Hispanic,I48.91,0U5B7ZZ,1,Medical Therapy,Private Insurance,6220.4
+74,Female,Black,E11.9,0U5B7ZZ,4,Surgery,Medicaid,16182.32
+77,Male,Black,E11.9,3E0P3NZ,1,Rehabilitation,Medicaid,6891.3
+18,Male,White,I50.9,0D160Z4,1,Observation,Medicare,2460.24
+48,Male,Asian,E03.9,0WQF0ZZ,2,Rehabilitation,Medicaid,6551.63
+48,Male,White,I25.10,0U5B7ZZ,1,Medical Therapy,Medicaid,5956.21
+29,Male,White,E11.9,0D160Z5,10,Medical Therapy,Medicaid,9421.38
+40,Female,White,I25.10,0U5B8ZZ,2,Emergency Care,Medicare,6941.47
+35,Male,Hispanic,I50.9,0U5B7ZZ,1,Medical Therapy,Medicaid,2909.58
+86,Female,Hispanic,E11.9,4A02X5Z,3,Observation,Medicaid,5300.51
+71,Male,White,F41.9,3E0P3MZ,1,Medical Therapy,Medicare,5258.08
+77,Female,White,M79.3,0U5B7ZZ,7,Medical Therapy,Uninsured,7954.15
+67,Male,Hispanic,N18.9,3E0P3NZ,1,Surgery,Medicare,14956.51
+34,Male,White,K21.9,0U5B8ZZ,2,Surgery,Medicare,10096.08
+45,Female,Black,E66.9,0U5B8ZZ,1,Surgery,Private Insurance,10181.05
+63,Female,Other,M79.3,0D160Z4,1,Surgery,Private Insurance,14610.75
+33,Male,White,E78.5,4A02X4Z,5,Rehabilitation,Private Insurance,15804.69
+67,Female,White,F41.9,4A02X4Z,4,Surgery,Medicare,15097.54
+50,Male,Black,I10,0WQF0ZZ,1,Observation,Uninsured,1632.7
+48,Female,Hispanic,E11.9,0D160Z5,1,Emergency Care,Medicare,9458.23
+67,Male,White,I25.10,0WQF1ZZ,5,Medical Therapy,Medicare,9960.4
+62,Male,Asian,I10,3E0P3NZ,7,Surgery,Medicare,19295.64
+48,Female,White,J45.909,4A02X5Z,1,Observation,Private Insurance,4564.73
+75,Female,White,E11.9,0U5B7ZZ,1,Observation,Medicaid,3545.37
+35,Male,Black,E78.5,3E0P3NZ,1,Observation,Private Insurance,5568.35
+66,Female,Hispanic,I50.9,0D160Z5,6,Observation,Medicaid,3930.61
+65,Female,White,C50.919,4A02X4Z,1,Rehabilitation,Medicare,7143.51
+49,Male,Hispanic,N18.9,3E0P3NZ,1,Medical Therapy,Private Insurance,6418.03
+60,Female,White,E78.5,0U5B7ZZ,4,Medical Therapy,Private Insurance,11847.37
+32,Male,White,I25.10,0D160Z4,1,Observation,Private Insurance,5185.58
+71,Female,White,I50.9,0WQF0ZZ,2,Surgery,Medicare,12604.29
+51,Female,Hispanic,I48.91,0D160Z4,1,Emergency Care,Private Insurance,10881.86
+45,Female,White,I63.9,4A02X4Z,1,Surgery,Private Insurance,12645.0
+73,Male,White,K21.9,3E0P3MZ,1,Medical Therapy,Medicaid,7215.56
+42,Male,White,I50.9,4A02X4Z,2,Emergency Care,Private Insurance,13338.37
+29,Male,Hispanic,E11.9,0WQF0ZZ,1,Medical Therapy,Medicare,4216.2
+26,Male,Black,I10,0U5B7ZZ,2,Medical Therapy,Private Insurance,7058.4
+65,Male,Hispanic,E66.9,0D160Z5,4,Medical Therapy,Medicare,9156.91
+31,Female,White,E66.9,0WQF1ZZ,4,Emergency Care,Medicaid,9084.41
+86,Male,Black,I10,0D160Z4,1,Medical Therapy,Private Insurance,9576.08
+18,Male,White,I25.10,4A02X4Z,1,Emergency Care,Medicare,6370.62
+85,Female,Hispanic,E66.9,0D160Z5,1,Surgery,Uninsured,10463.3
+58,Male,Hispanic,I50.9,0D160Z4,1,Observation,Private Insurance,3759.87
+53,Female,White,E78.5,4A02X4Z,1,Emergency Care,Medicare,7108.87
+45,Male,Black,F41.9,0WQF0ZZ,3,Surgery,Private Insurance,17624.31
+62,Female,White,I25.10,0D160Z4,1,Medical Therapy,Medicare,4706.45
+54,Male,White,I63.9,4A02X4Z,1,Surgery,Medicaid,10240.04
+74,Male,White,I48.91,0U5B7ZZ,1,Observation,Medicaid,4131.6
+57,Female,White,N18.9,0WQF0ZZ,3,Medical Therapy,Uninsured,6965.41
+57,Male,White,C50.919,0D160Z5,1,Observation,Private Insurance,5784.94
+48,Female,Black,I25.10,0D160Z5,3,Surgery,Private Insurance,14043.91
+53,Male,White,C50.919,0WQF1ZZ,1,Surgery,Medicaid,8873.29
+60,Male,Hispanic,I25.10,3E0P3NZ,6,Surgery,Medicare,10548.21
+24,Female,White,K21.9,3E0P3MZ,6,Medical Therapy,Private Insurance,9641.81
+30,Male,White,M79.3,0U5B7ZZ,1,Medical Therapy,Private Insurance,4349.01
+68,Female,Hispanic,E11.9,0WQF0ZZ,1,Emergency Care,Medicare,9294.83
+58,Female,White,K21.9,0D160Z4,1,Observation,Private Insurance,4500.8
+51,Female,White,E66.9,0D160Z5,1,Medical Therapy,Medicaid,4189.34
+55,Female,Black,I10,0U5B7ZZ,3,Rehabilitation,Medicaid,9682.55
+61,Male,White,I10,0WQF0ZZ,5,Observation,Medicare,4715.43
+45,Male,White,F41.9,0WQF0ZZ,3,Emergency Care,Medicare,8338.29
+40,Male,White,J45.909,0D160Z4,5,Medical Therapy,Medicare,6968.9
+58,Female,Asian,J45.909,0WQF0ZZ,1,Medical Therapy,Medicaid,4844.24
+37,Female,Black,F41.9,4A02X5Z,1,Surgery,Medicare,7547.97
+62,Male,Black,C50.919,0U5B7ZZ,4,Observation,Private Insurance,6646.63
+24,Female,Black,E78.5,4A02X4Z,1,Surgery,Medicare,8589.49
+73,Male,White,I10,0D160Z5,3,Medical Therapy,Private Insurance,11288.69
+63,Female,White,M79.3,0D160Z5,1,Medical Therapy,Medicare,7032.26
+59,Male,Hispanic,K21.9,4A02X4Z,1,Medical Therapy,Medicaid,3339.14
+72,Female,White,N18.9,0U5B7ZZ,14,Observation,Medicare,12066.7
+84,Female,White,M79.3,3E0P3MZ,1,Surgery,Private Insurance,17239.93
+73,Male,White,I63.9,0U5B7ZZ,13,Medical Therapy,Medicare,13312.1
+21,Male,White,C50.919,0U5B8ZZ,11,Observation,Private Insurance,13194.68
+31,Male,Other,F41.9,0WQF0ZZ,4,Rehabilitation,Medicaid,9058.45
+43,Male,White,J45.909,3E0P3NZ,3,Observation,Medicare,4582.39
+55,Male,White,I50.9,0D160Z4,2,Emergency Care,Medicaid,7768.71
+64,Female,White,M79.3,4A02X5Z,6,Observation,Private Insurance,11267.55
+41,Female,Other,F41.9,3E0P3NZ,1,Medical Therapy,Medicare,5244.98
+58,Female,White,M79.3,4A02X4Z,1,Surgery,Private Insurance,13491.62
+41,Male,White,E66.9,0D160Z4,2,Observation,Medicare,4250.21
+43,Female,Hispanic,I63.9,0D160Z4,1,Observation,Private Insurance,6691.83
+29,Female,Black,I48.91,0D160Z4,1,Observation,Medicaid,2812.69
+38,Male,White,M79.3,0D160Z5,1,Medical Therapy,Medicare,5105.74
+30,Female,White,E66.9,4A02X5Z,2,Medical Therapy,Private Insurance,5594.71
+37,Female,White,M79.3,0D160Z5,5,Medical Therapy,Medicaid,6528.47
+73,Male,White,M79.3,0WQF0ZZ,1,Medical Therapy,Medicaid,4730.58
+37,Male,White,J45.909,0U5B8ZZ,8,Surgery,Private Insurance,18663.18
+95,Female,White,I10,0WQF1ZZ,3,Emergency Care,Uninsured,6799.59
+63,Male,White,I25.10,4A02X5Z,5,Surgery,Private Insurance,23640.2
+58,Female,White,C50.919,3E0P3NZ,2,Surgery,Medicare,12530.89
+39,Female,Black,M79.3,0WQF0ZZ,4,Medical Therapy,Medicaid,6831.8
+67,Female,Asian,M79.3,0U5B7ZZ,1,Observation,Private Insurance,5447.76
+44,Male,Black,E11.9,4A02X4Z,5,Medical Therapy,Private Insurance,10265.25
+57,Male,White,I10,0U5B8ZZ,1,Medical Therapy,Private Insurance,9683.8
+95,Female,White,E66.9,0WQF0ZZ,6,Medical Therapy,Medicaid,8496.3
+53,Female,Asian,I25.10,0U5B7ZZ,14,Medical Therapy,Medicaid,14230.45
+75,Male,White,N18.9,0U5B8ZZ,1,Emergency Care,Private Insurance,13137.66
+42,Female,White,N18.9,0U5B7ZZ,1,Emergency Care,Medicare,9784.19
+54,Female,White,I50.9,4A02X5Z,4,Medical Therapy,Private Insurance,10648.89
+86,Male,Black,F41.9,0U5B7ZZ,1,Medical Therapy,Private Insurance,9781.25
+43,Male,Black,E03.9,0U5B8ZZ,6,Observation,Medicare,4691.01
+87,Female,White,K21.9,0U5B7ZZ,1,Surgery,Medicaid,9837.34
+67,Male,White,E11.9,3E0P3NZ,1,Medical Therapy,Private Insurance,6029.48
+44,Male,Asian,E66.9,0WQF0ZZ,11,Medical Therapy,Medicare,6360.8
+66,Male,White,I10,0U5B8ZZ,3,Emergency Care,Medicare,12678.02
+72,Male,Black,I10,3E0P3NZ,5,Surgery,Medicare,16273.46
+66,Female,Black,E03.9,0U5B7ZZ,1,Medical Therapy,Medicaid,6133.35
+26,Female,Black,I50.9,0U5B7ZZ,3,Observation,Medicare,4250.96
+41,Male,White,E78.5,0D160Z4,2,Medical Therapy,Medicare,6272.8
+50,Female,White,J45.909,0U5B8ZZ,2,Surgery,Private Insurance,17820.25
+53,Female,White,I50.9,4A02X5Z,3,Rehabilitation,Medicare,8706.68
+66,Female,Hispanic,I63.9,0U5B7ZZ,2,Medical Therapy,Medicare,8061.3
+58,Male,Asian,I25.10,4A02X4Z,1,Observation,Medicare,3965.85
+30,Male,White,C50.919,0D160Z5,1,Surgery,Private Insurance,12225.07
+61,Female,White,I50.9,0WQF1ZZ,4,Medical Therapy,Private Insurance,7652.34
+65,Female,Asian,E03.9,0D160Z5,1,Medical Therapy,Medicare,4013.14
+65,Male,Hispanic,E03.9,4A02X5Z,3,Surgery,Private Insurance,24343.15
+74,Male,Hispanic,K21.9,0WQF0ZZ,1,Surgery,Uninsured,12920.61
+70,Male,White,E11.9,3E0P3MZ,2,Emergency Care,Medicare,6680.16
+63,Female,White,I63.9,4A02X4Z,4,Surgery,Medicare,15037.6
+53,Female,Black,M79.3,3E0P3MZ,1,Surgery,Medicare,10762.3
+25,Female,Black,F41.9,0U5B7ZZ,1,Medical Therapy,Private Insurance,6358.22
+62,Male,White,N18.9,0WQF0ZZ,1,Observation,Medicaid,5208.06
+58,Female,White,E03.9,3E0P3NZ,2,Surgery,Medicare,9570.77
+59,Female,White,K21.9,0U5B7ZZ,5,Medical Therapy,Private Insurance,8739.18
+32,Male,White,J45.909,3E0P3MZ,1,Surgery,Medicare,8745.95
+35,Female,White,E66.9,0U5B7ZZ,3,Surgery,Private Insurance,11428.73
+73,Female,Asian,I48.91,0WQF1ZZ,1,Surgery,Medicaid,4904.55
+54,Male,White,N18.9,0D160Z4,1,Emergency Care,Medicare,8376.19
+67,Female,Hispanic,E78.5,0WQF1ZZ,7,Surgery,Private Insurance,27719.07
+55,Male,White,I10,0WQF0ZZ,1,Surgery,Medicare,10567.56
+55,Female,Black,J45.909,3E0P3NZ,1,Medical Therapy,Private Insurance,8104.25
+71,Female,Other,E78.5,0WQF1ZZ,1,Emergency Care,Medicare,10877.06
+45,Female,White,N18.9,0U5B8ZZ,1,Medical Therapy,Medicaid,3845.88
+56,Female,White,J45.909,3E0P3NZ,1,Medical Therapy,Medicare,6020.81
+46,Male,White,K21.9,3E0P3MZ,1,Surgery,Medicaid,6104.6
+47,Female,White,E78.5,0WQF1ZZ,2,Medical Therapy,Medicare,5614.6
+49,Female,Hispanic,C50.919,0D160Z4,1,Medical Therapy,Private Insurance,6944.37
+58,Male,Asian,I10,3E0P3NZ,2,Medical Therapy,Medicare,6748.44
+46,Female,White,M79.3,0U5B7ZZ,1,Medical Therapy,Medicaid,3620.05
+77,Female,White,K21.9,0D160Z4,1,Medical Therapy,Medicare,5385.45
+38,Male,White,E66.9,0U5B7ZZ,3,Surgery,Medicare,12514.18
+51,Female,Black,I25.10,0WQF1ZZ,10,Medical Therapy,Private Insurance,17371.46
+47,Female,White,C50.919,4A02X4Z,1,Surgery,Medicare,9550.6
+81,Male,White,C50.919,4A02X4Z,6,Observation,Medicare,7081.73
+58,Female,Black,I10,3E0P3MZ,2,Rehabilitation,Medicaid,8541.04
+73,Male,Black,E11.9,0D160Z4,2,Rehabilitation,Uninsured,5859.92
+28,Male,White,E66.9,0U5B7ZZ,2,Emergency Care,Medicare,10897.79
+59,Male,Black,I48.91,4A02X5Z,1,Observation,Medicaid,2762.97
+71,Female,White,I50.9,0D160Z4,1,Observation,Private Insurance,6846.29
+56,Female,White,I63.9,0U5B8ZZ,2,Medical Therapy,Medicare,7378.17
+74,Male,Hispanic,E11.9,3E0P3MZ,1,Observation,Private Insurance,8558.69
+45,Male,Hispanic,F41.9,0D160Z5,7,Medical Therapy,Private Insurance,9258.77
+80,Female,White,E03.9,0D160Z5,1,Medical Therapy,Uninsured,2911.25
+95,Male,White,M79.3,0U5B7ZZ,1,Observation,Medicare,6732.53
+48,Female,White,I25.10,4A02X4Z,3,Medical Therapy,Private Insurance,6055.19
+46,Female,White,I25.10,3E0P3NZ,1,Medical Therapy,Medicare,6166.12
+81,Female,White,I50.9,0U5B8ZZ,2,Emergency Care,Medicare,14438.41
+83,Female,White,E78.5,0D160Z5,3,Surgery,Medicare,16646.06
+45,Male,White,I50.9,0U5B7ZZ,6,Medical Therapy,Uninsured,7361.68
+47,Female,Hispanic,C50.919,0U5B7ZZ,4,Emergency Care,Medicaid,11082.73
+49,Female,Black,E03.9,0WQF1ZZ,3,Observation,Medicaid,5132.26
+30,Female,Black,C50.919,4A02X4Z,3,Medical Therapy,Private Insurance,8481.17
+38,Male,White,E11.9,0D160Z4,8,Surgery,Medicare,13851.84
+36,Female,Asian,C50.919,3E0P3NZ,1,Medical Therapy,Medicare,6879.6
+41,Male,Hispanic,F41.9,0WQF1ZZ,1,Emergency Care,Medicare,7978.23
+54,Male,Hispanic,I25.10,0D160Z5,1,Medical Therapy,Medicare,6456.46
+59,Male,Hispanic,E11.9,3E0P3NZ,1,Medical Therapy,Medicaid,6167.87
+82,Female,Asian,I10,3E0P3MZ,3,Surgery,Private Insurance,23158.6
+37,Female,White,M79.3,4A02X4Z,3,Surgery,Medicare,14216.4
+72,Female,White,J45.909,0D160Z5,2,Rehabilitation,Medicare,9089.33
+51,Female,Black,E03.9,0U5B7ZZ,1,Medical Therapy,Medicare,5792.11
+54,Male,Hispanic,I63.9,0D160Z5,3,Observation,Private Insurance,6746.7
+67,Female,Hispanic,J45.909,4A02X5Z,1,Surgery,Medicaid,12561.25
+34,Male,White,E03.9,0WQF0ZZ,3,Observation,Private Insurance,4250.46
+61,Female,White,N18.9,0WQF0ZZ,2,Emergency Care,Medicaid,10362.56
+57,Female,White,C50.919,0D160Z5,1,Medical Therapy,Private Insurance,6018.31
+63,Female,Asian,M79.3,4A02X5Z,1,Surgery,Medicare,15427.56
+60,Female,White,I10,0D160Z5,1,Medical Therapy,Medicare,6569.59
+95,Male,White,M79.3,0WQF0ZZ,5,Observation,Medicaid,6032.51
+43,Male,White,E78.5,0WQF1ZZ,7,Medical Therapy,Medicaid,9337.39
+45,Female,White,E03.9,3E0P3MZ,3,Emergency Care,Medicare,10346.51
+43,Male,Hispanic,I63.9,0WQF0ZZ,1,Observation,Private Insurance,4434.72
+45,Male,Black,I48.91,3E0P3MZ,1,Emergency Care,Private Insurance,6370.38
+43,Female,Hispanic,I48.91,0U5B7ZZ,3,Observation,Private Insurance,4622.67
+76,Female,White,J45.909,3E0P3MZ,4,Surgery,Medicaid,13995.5
+80,Male,Black,E03.9,0WQF1ZZ,1,Medical Therapy,Private Insurance,5682.78
+44,Male,White,E78.5,4A02X5Z,1,Surgery,Private Insurance,10484.87
+40,Female,Black,E03.9,3E0P3MZ,3,Emergency Care,Medicare,8991.25
+63,Female,White,M79.3,3E0P3NZ,1,Observation,Medicare,3695.94
+45,Male,White,K21.9,0D160Z4,1,Observation,Medicare,4400.27
+66,Male,Black,E03.9,0WQF0ZZ,1,Medical Therapy,Medicare,5265.14
+58,Male,Asian,N18.9,4A02X5Z,2,Surgery,Private Insurance,15112.57
+27,Male,White,N18.9,0U5B8ZZ,5,Observation,Private Insurance,5975.37
+82,Male,Hispanic,I25.10,0U5B7ZZ,9,Medical Therapy,Medicare,12564.22
+87,Female,White,N18.9,0D160Z4,2,Surgery,Medicaid,17028.66
+43,Female,White,I63.9,3E0P3NZ,2,Observation,Medicare,4405.32
+48,Female,White,E03.9,4A02X4Z,1,Surgery,Medicare,10793.35
+60,Male,White,F41.9,0WQF1ZZ,2,Medical Therapy,Medicare,5792.91
+61,Female,White,E03.9,0D160Z5,1,Medical Therapy,Medicare,6937.04
+66,Male,White,K21.9,0D160Z4,2,Surgery,Medicare,14292.73
+91,Female,White,N18.9,4A02X5Z,1,Rehabilitation,Private Insurance,12096.88
+51,Female,Asian,E11.9,4A02X5Z,1,Surgery,Private Insurance,9532.4
+40,Male,White,I48.91,4A02X5Z,1,Surgery,Uninsured,6452.6
+30,Female,Hispanic,E03.9,0U5B7ZZ,1,Surgery,Medicare,11047.74
+41,Male,White,I63.9,3E0P3MZ,1,Observation,Medicare,3178.56
+54,Female,Black,C50.919,0WQF0ZZ,1,Medical Therapy,Medicare,7686.89
+87,Male,White,I10,4A02X4Z,13,Medical Therapy,Private Insurance,17391.32
+45,Male,White,I10,0D160Z5,1,Surgery,Medicare,10091.53
+59,Female,White,J45.909,4A02X5Z,2,Surgery,Medicaid,10465.02
+54,Male,White,I63.9,0D160Z5,6,Medical Therapy,Private Insurance,9598.5
+76,Female,White,K21.9,0U5B8ZZ,16,Emergency Care,Private Insurance,26968.91
+95,Male,Black,E78.5,0U5B7ZZ,2,Emergency Care,Private Insurance,13254.56
+45,Female,Hispanic,I48.91,4A02X5Z,5,Surgery,Medicare,15428.75
+46,Female,Hispanic,E11.9,0U5B8ZZ,1,Medical Therapy,Medicare,6467.68
+73,Female,Black,E03.9,4A02X4Z,1,Emergency Care,Medicare,10224.77
+67,Male,White,E66.9,4A02X4Z,1,Medical Therapy,Private Insurance,7812.5
+88,Male,White,C50.919,0WQF0ZZ,3,Emergency Care,Medicare,16432.66
+65,Male,White,M79.3,3E0P3NZ,3,Surgery,Medicare,14128.85
+48,Male,White,E66.9,0WQF0ZZ,1,Emergency Care,Uninsured,5803.19
+65,Female,White,I50.9,3E0P3MZ,1,Observation,Medicare,3555.21
+74,Female,White,I50.9,0D160Z5,3,Emergency Care,Medicaid,13694.66
+69,Female,White,E78.5,0WQF1ZZ,1,Observation,Medicaid,3792.53
+64,Female,White,I48.91,4A02X4Z,2,Medical Therapy,Medicare,6207.68
+74,Female,Hispanic,I25.10,0WQF1ZZ,3,Emergency Care,Medicare,10650.99
+76,Female,Hispanic,M79.3,0U5B7ZZ,3,Medical Therapy,Medicare,10290.7
+79,Male,White,I50.9,0D160Z4,4,Medical Therapy,Private Insurance,9885.55
+66,Female,Asian,E78.5,4A02X5Z,6,Observation,Private Insurance,10240.1
+51,Female,Asian,I63.9,0U5B7ZZ,2,Observation,Medicaid,3819.49
+57,Female,White,I50.9,4A02X4Z,3,Emergency Care,Medicaid,7507.41
+76,Male,White,E66.9,0U5B8ZZ,2,Surgery,Private Insurance,15526.0
+40,Male,White,K21.9,0D160Z5,1,Observation,Medicare,3630.03
+61,Male,Asian,I63.9,0WQF1ZZ,1,Observation,Medicare,4216.1
+47,Female,Hispanic,J45.909,0WQF0ZZ,1,Surgery,Medicaid,8608.06
+55,Female,White,I25.10,0D160Z4,1,Medical Therapy,Medicare,5515.43
+78,Male,White,K21.9,3E0P3NZ,2,Medical Therapy,Medicare,6448.93
+58,Female,White,M79.3,0U5B7ZZ,5,Medical Therapy,Private Insurance,10913.39
+55,Male,White,E78.5,3E0P3NZ,1,Rehabilitation,Private Insurance,9581.41
+30,Male,White,C50.919,0WQF1ZZ,1,Observation,Medicaid,2099.8
+68,Male,Hispanic,I48.91,0WQF1ZZ,9,Observation,Private Insurance,13192.76
+66,Female,Black,E11.9,4A02X5Z,1,Rehabilitation,Medicare,1998.86
+93,Female,Hispanic,M79.3,0U5B8ZZ,1,Medical Therapy,Medicaid,6861.74
+49,Male,Hispanic,M79.3,0U5B8ZZ,2,Emergency Care,Medicare,10404.7
+58,Female,Hispanic,N18.9,3E0P3MZ,2,Medical Therapy,Medicare,5935.47
+59,Male,White,E11.9,0WQF0ZZ,1,Emergency Care,Private Insurance,6402.2
+83,Female,Black,I10,4A02X4Z,1,Surgery,Medicare,12629.86
+53,Female,White,N18.9,4A02X4Z,1,Emergency Care,Private Insurance,11003.7
+60,Female,Black,E78.5,0WQF1ZZ,2,Surgery,Medicare,9483.39
+65,Male,White,I10,0U5B7ZZ,2,Medical Therapy,Private Insurance,7201.36
+58,Female,Black,I48.91,0D160Z5,1,Observation,Medicare,5033.72
+46,Female,White,I50.9,4A02X4Z,3,Medical Therapy,Medicaid,6304.98
+58,Male,White,I63.9,4A02X4Z,5,Observation,Medicaid,3871.18
+74,Female,White,C50.919,0U5B7ZZ,1,Medical Therapy,Medicare,7357.27
+36,Male,White,I50.9,0WQF0ZZ,2,Observation,Medicare,3281.63
+57,Female,Black,M79.3,0D160Z4,3,Surgery,Medicare,11294.06
+42,Male,Hispanic,N18.9,0U5B8ZZ,1,Surgery,Medicare,9935.84
+76,Female,White,E03.9,4A02X5Z,1,Medical Therapy,Medicaid,6207.06
+27,Female,White,E11.9,4A02X5Z,2,Medical Therapy,Private Insurance,6017.99
+44,Male,White,I63.9,4A02X5Z,6,Surgery,Medicare,14566.36
+61,Male,White,E66.9,0U5B7ZZ,4,Medical Therapy,Medicare,7907.42
+83,Male,White,I10,4A02X5Z,2,Medical Therapy,Medicare,6645.57
+53,Male,Hispanic,E11.9,0WQF1ZZ,3,Surgery,Private Insurance,19410.55
+45,Male,White,N18.9,3E0P3MZ,1,Medical Therapy,Medicare,3736.15
+88,Female,White,C50.919,0U5B7ZZ,3,Emergency Care,Uninsured,9794.27
+28,Male,White,M79.3,0U5B7ZZ,1,Surgery,Medicaid,5302.39
+18,Male,White,K21.9,0U5B8ZZ,1,Medical Therapy,Medicare,5021.86
+62,Female,White,I50.9,4A02X5Z,3,Observation,Private Insurance,6227.82
+45,Male,Black,I10,3E0P3NZ,2,Medical Therapy,Medicaid,4321.89
+36,Female,White,C50.919,0D160Z4,1,Observation,Private Insurance,4902.79
+67,Female,White,I10,3E0P3MZ,7,Medical Therapy,Medicare,5825.06
+59,Female,White,E78.5,0U5B7ZZ,1,Medical Therapy,Medicare,6416.27
+44,Female,White,I48.91,3E0P3MZ,1,Surgery,Medicaid,10629.43
+31,Female,White,I10,0U5B7ZZ,1,Observation,Private Insurance,4267.43
+70,Male,Asian,I63.9,0WQF0ZZ,4,Observation,Private Insurance,6712.37
+66,Male,Black,I48.91,0U5B8ZZ,3,Surgery,Medicaid,9415.59
+53,Male,White,N18.9,0WQF1ZZ,1,Medical Therapy,Medicaid,6277.16
+88,Female,White,C50.919,0WQF0ZZ,3,Rehabilitation,Medicaid,11153.04
+35,Male,White,F41.9,0D160Z5,1,Medical Therapy,Medicare,4350.28
+27,Female,White,I10,4A02X5Z,4,Medical Therapy,Private Insurance,7277.44
+42,Female,Black,I10,0D160Z5,1,Emergency Care,Private Insurance,12045.64
+54,Female,Black,E11.9,0D160Z4,1,Observation,Medicaid,4027.01
+59,Female,White,C50.919,3E0P3NZ,8,Medical Therapy,Private Insurance,8730.85
+50,Male,White,E66.9,0WQF1ZZ,1,Observation,Medicare,3813.65
+61,Female,White,F41.9,0WQF0ZZ,1,Emergency Care,Medicaid,7837.68
+32,Female,Hispanic,I63.9,3E0P3MZ,2,Medical Therapy,Private Insurance,7157.77
+80,Male,Black,M79.3,3E0P3MZ,10,Medical Therapy,Medicare,13516.32
+53,Male,White,J45.909,0D160Z4,1,Medical Therapy,Private Insurance,6367.46
+75,Female,White,C50.919,0U5B7ZZ,1,Rehabilitation,Medicare,8444.87
+61,Female,Black,F41.9,3E0P3MZ,1,Observation,Medicare,3929.02
+63,Female,White,I48.91,4A02X5Z,2,Surgery,Medicare,21128.02
+65,Female,White,I10,3E0P3NZ,1,Emergency Care,Private Insurance,11918.03
+63,Female,White,I48.91,0U5B8ZZ,3,Medical Therapy,Private Insurance,9377.35
+66,Female,Black,E03.9,4A02X5Z,18,Surgery,Private Insurance,50000.0
+78,Male,White,M79.3,3E0P3NZ,1,Medical Therapy,Private Insurance,6158.8
+58,Male,White,I25.10,0D160Z4,1,Medical Therapy,Medicaid,5242.11
+67,Male,Hispanic,E78.5,4A02X5Z,1,Emergency Care,Medicare,7819.29
+53,Female,White,C50.919,0U5B8ZZ,1,Surgery,Medicare,11776.04
+80,Female,White,F41.9,0U5B8ZZ,6,Emergency Care,Medicaid,12760.0
+42,Female,White,E11.9,4A02X4Z,1,Medical Therapy,Medicare,5926.06
+87,Male,White,E78.5,0U5B7ZZ,1,Surgery,Uninsured,11312.44
+54,Female,Hispanic,K21.9,0D160Z4,3,Rehabilitation,Medicaid,8989.63
+29,Female,White,E66.9,4A02X5Z,1,Medical Therapy,Private Insurance,6380.82
+57,Female,White,I48.91,0WQF1ZZ,3,Medical Therapy,Uninsured,5516.23
+42,Female,White,I10,0WQF1ZZ,1,Medical Therapy,Medicare,3825.69
+70,Male,Black,F41.9,0D160Z4,5,Emergency Care,Medicare,17035.76
+43,Female,Black,I50.9,4A02X5Z,8,Medical Therapy,Private Insurance,16285.34
+46,Male,White,E03.9,0WQF0ZZ,3,Surgery,Medicare,10134.21
+20,Male,White,E11.9,0WQF0ZZ,9,Surgery,Medicaid,18501.65
+46,Female,Black,E78.5,0U5B7ZZ,1,Medical Therapy,Medicare,4204.94
+18,Female,White,I10,4A02X5Z,1,Observation,Private Insurance,3766.24
+26,Female,Hispanic,I50.9,0U5B8ZZ,2,Medical Therapy,Private Insurance,7021.43
+68,Female,Hispanic,I50.9,3E0P3MZ,2,Surgery,Private Insurance,14489.74
+69,Female,Hispanic,K21.9,0WQF1ZZ,1,Surgery,Medicare,11968.32
+62,Female,White,M79.3,4A02X5Z,1,Medical Therapy,Medicare,7263.47
+37,Female,White,E03.9,4A02X5Z,1,Emergency Care,Medicaid,6631.63
+54,Male,Hispanic,J45.909,3E0P3MZ,1,Medical Therapy,Medicare,5060.09
+54,Male,White,E03.9,3E0P3MZ,1,Rehabilitation,Medicaid,4712.72
+34,Male,White,K21.9,3E0P3NZ,3,Medical Therapy,Private Insurance,7199.63
+82,Male,Hispanic,N18.9,4A02X4Z,1,Surgery,Medicaid,8703.27
+70,Male,Hispanic,I63.9,0U5B7ZZ,1,Emergency Care,Private Insurance,11135.88
+51,Male,White,M79.3,0WQF1ZZ,2,Medical Therapy,Medicare,5836.23
+55,Male,White,E11.9,3E0P3MZ,2,Observation,Private Insurance,6569.67
+58,Female,White,F41.9,0WQF0ZZ,6,Rehabilitation,Medicaid,10422.95
+18,Male,Hispanic,M79.3,0D160Z4,2,Surgery,Private Insurance,16437.93
+50,Female,Hispanic,E66.9,0WQF0ZZ,1,Surgery,Uninsured,4741.23
+42,Male,White,K21.9,3E0P3NZ,4,Observation,Private Insurance,6791.55
+36,Female,White,K21.9,3E0P3NZ,2,Medical Therapy,Medicare,5239.81
+49,Male,Hispanic,E11.9,3E0P3MZ,1,Surgery,Medicare,8189.02
+87,Male,White,E11.9,3E0P3NZ,2,Surgery,Uninsured,11209.86
+66,Female,White,E66.9,0U5B8ZZ,7,Surgery,Medicare,18874.64
+44,Male,Asian,E11.9,0D160Z5,1,Observation,Medicaid,4084.29
+65,Male,White,M79.3,4A02X5Z,1,Surgery,Medicaid,10337.29
