@@ -74,7 +74,7 @@ SHAP analysis revealed that:
 
 Interactively predict treatment charges:
 
-### 🚀 [Try the App (Live)](http://localhost:8502/) 
+### 🚀 [Try the App (Live)](https://ncp6znzljusph3yerc75ln.streamlit.app/) 
 
 Or run locally:
 ```bash
