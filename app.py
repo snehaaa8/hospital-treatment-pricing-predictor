@@ -1,12 +1,12 @@
 # Import required libraries for the Streamlit web application
 import streamlit as st
 import pandas as pd
-import joblib
+#import joblib
 from sklearn.pipeline import Pipeline
 
 # Load the pre-trained machine learning model from the saved pickle file
 # This model was trained on healthcare data to predict hospital charges
-model = joblib.load("hospital_charge_model.pkl")
+model = pd.read_pickle("hospital_charge_model.pkl")
 
 # Configure the Streamlit page settings
 st.set_page_config(page_title="Hospital Charge Predictor", layout="centered")
